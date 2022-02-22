@@ -1,0 +1,1193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An explanatory dialogue of a late treatise, intituled, A discourse on the late funds of the Million-act, Lottery-act, and Bank of England with proposals for supplying Their Majesties with money on easy terms, exempting the nobility, gentry, &amp;c. from taxes, enlarging their yearly estates, and enriching all the subjects in humbly offered to the consideration of the Lords and Commons in Parliament assembled by J. Briscoe.</title>
+            <author>Briscoe, John, fl. 1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 133 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29543</idno>
+            <idno type="STC">Wing B4749</idno>
+            <idno type="STC">ESTC R19391</idno>
+            <idno type="EEBO-CITATION">12220605</idno>
+            <idno type="OCLC">ocm 12220605</idno>
+            <idno type="VID">56392</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29543)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56392)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 129:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An explanatory dialogue of a late treatise, intituled, A discourse on the late funds of the Million-act, Lottery-act, and Bank of England with proposals for supplying Their Majesties with money on easy terms, exempting the nobility, gentry, &amp;c. from taxes, enlarging their yearly estates, and enriching all the subjects in humbly offered to the consideration of the Lords and Commons in Parliament assembled by J. Briscoe.</title>
+                  <author>Briscoe, John, fl. 1695.</author>
+               </titleStmt>
+               <extent>viii, 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Briscoe, John. --  Discourse on the late funds of the Million-Act, Lottery-Act, and Bank of England.</term>
+               <term>Bank of England.</term>
+               <term>Finance --  Great Britain --  History.</term>
+               <term>Banks and banking --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56392:1"/>
+            <pb facs="tcp:56392:1" rendition="simple:additions"/>
+            <p>AN <hi rend="blackletterType">Explanatory Dialogue</hi> Of a late Treatiſe, intituled, <hi>A Diſcourſe on the late Funds of the Million-Act, Lottery-Act, and Bank of</hi> England.</p>
+            <p>With Propoſals for Supplying their Ma<g ref="char:EOLhyphen"/>jeſties with Money on eaſy Terms, Ex<g ref="char:EOLhyphen"/>empting the Nobility, Gentry, <hi>&amp;c.</hi> from Taxes, enlarging their yearly Eſtates, and enriching all the Subjects in the Kingdom.</p>
+            <p>Together with ſeveral Speeches to the Honourable the Houſe of Commons, by a Monied Man, a Free<g ref="char:EOLhyphen"/>holder, and a Merchant.</p>
+            <p>Humbly offered to the Conſideration of the Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament aſſembled. By <hi rend="blackletterType">I. Briſcoe.</hi>
+            </p>
+            <q xml:lang="lat">
+               <hi>O fortunatos nimium, bona ſi ſua nôrint, Anglitanos!</hi>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year M.DC.XCIV.</p>
+         </div>
+         <div type="introduction">
+            <pb facs="tcp:56392:2"/>
+            <pb n="iii" facs="tcp:56392:2"/>
+            <head>TO THE LORDS Spiritual and Temporal, And COMMONS in Parliament aſſembled.</head>
+            <opener>
+               <salute>May it pleaſe your Honours:</salute>
+            </opener>
+            <p>BY my endeavouring to avoid one Inconvenience, I am inform'd I am fall'n into a greater; and that for fear of being too tedious I have made the latter part of my Treatiſe, which I have preſented to your Honours, not ſo plain and intelligible as it might have been, had I been more copious: but I hope the enſuing Dialogue will clear up to your Honours all the obſcure Places in my Book. I herewith alſo preſent your Honours with an <hi>Idea</hi> of the various Circumſtances of the ſeveral Subjects in the Kingdom, and have brought in a monied Man, a Freeholder, and a Merchant delivering their Minds to the honourable the Houſe of Commons. But I hope your Honours will not blame me as guilty of Levity for my ſo doing; for I was far from any ſuch Temper when I writ it: That Perſon muſt have an Adamantine Heart, and be of a Diabolical Spirit, who can take pleaſure in contemplating on the moſt ſad and calamitous Condition of the poor Freeholders and others in the ſeveral Parts of the Kingdom: for the Deſtruction of Families, and the utter Ruin of Gentlemen and their Eſtates, is no laughing Matter; nor is it pleaſurable to think of the Miſe<g ref="char:EOLhyphen"/>ries, the Sighs and Groans of very many of our Fellow-Subjects, who with their diſtreſſed Families are forcibly turned out of doors, and deprived of their Free<g ref="char:EOLhyphen"/>holds; neither is it matter of Paſtime to conſider how our Trade, nay even the Nation it ſelf, is likely to be ruin'd in a few Years, if the War ſhould continue. For my part I ſee nothing in this to excite our Laughter; I have therefore brought the poor Freeholder, <hi>&amp;c.</hi> delivering their Minds to the honourable the Houſe of Com<g ref="char:EOLhyphen"/>mons, as being the moſt lively and pathetical Repreſentation of the deplorable Con<g ref="char:EOLhyphen"/>dition that very great numbers of the Subjects are under.</p>
+            <p>I have been told within theſe few days, that there were about <hi>160</hi> Bills ex<g ref="char:EOLhyphen"/>hibited in the Court of Chancery this laſt Term, to forecloſe Gentlemen from the Equity of Redemption: your Honours may quickly be ſatisfied whether it be ſo or no; but I fear there is too much Truth in it. And a Member of the Bank, whom I diſcours'd with about it, to mend the Matter, told me it was for their non-pay<g ref="char:EOLhyphen"/>ment
+<pb n="iv" facs="tcp:56392:3"/>of Intereſt that they were ſued in Chancery: admit i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be ſo, does not this ſo much the more beſpeak the great Diſtreſs and Poverty that is among the Freehol<g ref="char:EOLhyphen"/>ders of the Nation? and does it not the more loudly call upon your Honours to give them ſome Eaſe under theſe their ſore Preſſures?</p>
+            <p>That honourable and moſt worthy Perſon who is to pronounce thoſe fatal Words, <hi>Let them be forecloſed,</hi> without doubt will do it with no ſmall reluctancy: and altho, <hi>virtute officii,</hi> he may, ſo no doubt but he will ſuſpend for ſome time the rigorous execution of the Law, in tenderneſs to the poor Freeholders; but yet his Ho<g ref="char:EOLhyphen"/>nour cannot help it, ſooner or later he muſt (tho unwillingly) pronounce his definitive and final Decree, to the utter Ruin of the Freeholders and their Fami<g ref="char:EOLhyphen"/>lies.</p>
+            <p>It may be replied, it is the Freeholder's own fault, why does he not pay the Money he owes on his Eſtate? why the Anſwer is ready, All the Money is got into Huckſters hands; and if I am not miſinformed, there is <hi>5</hi> or <hi>600000 l.</hi> laid up ſafe in <hi>Mercers</hi> or <hi>Grocers-Hall,</hi> ready for another Fund of perpetual Intereſt.</p>
+            <p>Whom therefore have the poor Freeholders to flee to but unto your Honours: and pardon me if I ſay, it is in your Power (and in your Power only) to help them; and I hope your Honours will incline to help the Freeholders rather than to favour the monied Men, of whom the greateſt part in the Bank (as I have been told) are Foreigners.</p>
+            <p>But becauſe notwithſtanding all that hath been ſaid by me, ſome Perſons will not be convinc'd that the Subjects ought to be obliged to take theſe propoſed Bills of Credit for payment, I ſhall ſtate the Caſe to your Honours more fully than I may have yet done.</p>
+            <p>All Dealings between Man and Man in reference to buying and ſelling, are nothing elſe but a Commutation or Exchange of one Commodity for another; and Gold and Silver are likewiſe Commodities, whether in Bullion or Coined; and whoſoever takes them to be otherwiſe, are very much miſtaken: and for whatſo<g ref="char:EOLhyphen"/>ever any Perſon buys, he ought to give the Seller an Equivalent, or the Value a<g ref="char:EOLhyphen"/>greed upon between them. Now if I buy a Horſe of any Man, and I am by agreement to give <hi>20</hi> Buſhels of Wheat for it; or if I buy <hi>20</hi> Quarters of Oats, and I agree to give an Acre of Land for them, I do by delivering my Wheat or conveying my Land, as actually pay the one for his Horſe, and the other for his Oats, as if I paid them in Gold or Silver. Now altho this manner of buying and ſelling, or bartering one Commodity for another, was formerly altogether in uſe, yet by reaſon of the uncertainty of the Value or Goodneſs of the things bartered, the Inconvenience of Carriage and Recarriage, and ſome Goods being pe<g ref="char:EOLhyphen"/>riſhable and ſubject to decay, it put Perſons upon conſidering of ſome Commo<g ref="char:EOLhyphen"/>dity that might be moſt fit to ſerve for a <hi>Medium</hi> of Trade and Commerce; and Gold and Silver were agreed upon for the Reaſons following.</p>
+            <pb n="v" facs="tcp:56392:3"/>
+            <p n="1">
+               <hi>1.</hi> Becauſe the Value might be aſcertain'd by their being brought to a certain Standard.</p>
+            <p n="2">
+               <hi>2.</hi> Becauſe they are portable, and of eaſy conveyance.</p>
+            <p n="3">
+               <hi>3.</hi> Gold and Silver may be divided into almoſt any equal Parts.</p>
+            <p n="4">
+               <hi>4.</hi> They are capable of receiving any Signature that ſhall be thought fit to be impreſs'd upon them to ſhew their Value.</p>
+            <p n="5">
+               <hi>5.</hi> They are leſs periſhable than any other Commodities.</p>
+            <p>For the aforeſaid Reaſons, and to prevent that Confuſion that was generally occaſi<g ref="char:EOLhyphen"/>on'd by exchanging other Commodities, it was at laſt thought fit by common Conſent to oblige every Man to accept of Gold and Silver in exchange for what was ſold, (if tendred to them) unleſs ſome previous Agreement was made to the contrary: And hence it is that thoſe two Commodities, Gold and Silver, came to be made the <hi>Me<g ref="char:EOLhyphen"/>dium</hi> of Trade and Commerce, and in time obtain'd the Name of Money, being divided into greater and ſmaller pieces, diſtinguiſh'd by divers Marks or Stamps impreſt upon them, according to their ſeveral Values, each piece having alſo given it a ſeveral Denomination or Name; and all Perſons were obliged by Law to receive thoſe Commodities ſo coined, according to the Value impreſt upon them.</p>
+            <p>Now if the Subjects for the aforeſaid Reaſons are obliged to take Gold and Sil<g ref="char:EOLhyphen"/>ver in paiment, I hope if ſomething elſe can be found that may have all, nay more than theſe requiſite Qualities to recommend it to be a <hi>Medium</hi> of Trade and Commerce, wherein the Perſon who takes it can be no loſer, it can be no more look'd upon, or eſteem'd as an Impoſition upon, or Injury to the Subject, if your Honours ſhould alſo oblige them to receive that in paiment, than the Sub<g ref="char:EOLhyphen"/>jects could think themſelves injured or impoſed upon, by being obliged by a former Parliament, to take Gold and Silver, eſpecially ſince I have proved that your Honours, by ſo doing, will bring ſo great Advantage to the whole Nation: And that which I have pitch'd upon, is, to convert your Honours Lands into Money, and to make them current in paiment as Gold and Silver now are, and not Bits of Paper, as ſome inconſiderately object.</p>
+            <p>To begin therefore with the ſeveral Qualifications that Gold and Silver are induced with.</p>
+            <p n="1">
+               <hi>1.</hi> The Aſcertaining their Value, by bringing them to a known Standard; which is performed by the Skill of the Workman, and by being brought to the Teſt.</p>
+            <p>And I propoſe to aſcertain the Value of every Man's Eſtate, which ſhall be ſettled in order to be turn'd into Money, by the inſpection of the Commiſſioners Agents, the Examination of the Titles by the Commiſſioners Counſel, and by the Oaths of two or more credible Witneſſes.</p>
+            <p n="2">
+               <hi>2.</hi> As to the Portability, or Eaſineſs of Conveyance. Though Land is not
+<pb n="vi" facs="tcp:56392:4"/>portable, yet it is more eaſily conveyed than Gold and Silver; in regard a Parch<g ref="char:EOLhyphen"/>ment or Paper-Deed, can convey more Land in Value, than many Wagon Loads of Gold and Silver: and he who is ſeized of ſuch Land, by virtue of ſuch Writing, is as abſolutely poſſeſt of ſuch Land, as he is of the Gold or Sil<g ref="char:EOLhyphen"/>ver, who tells it over, and takes the ſame into his Cuſtody.</p>
+            <p n="3">
+               <hi>3.</hi> Land is as capable of being divided into as many needful Parts as Gold or Silver: And an hundred Pounds Value in Land, if ſettled in Truſt as by me propoſed, may be paid to twenty ſeveral Perſons; and each Perſon may aſ<g ref="char:EOLhyphen"/>ſign his Intereſt or Title unto ſuch Land to another, and that Perſon to a Third, and ſo <hi>ad infinitum:</hi> And the propoſed Bills of Credit being no other than ſo many Mortgages, and propoſed to be from <hi>5 l.</hi> to <hi>100 l.</hi> Value, they will an<g ref="char:EOLhyphen"/>ſwer all Occaſions as well as Gold and Silver; only for ſmall Sums under <hi>5 l.</hi> Gold and Silver may be ſubſervient to Land, as Copper is now ſubſervient to Gold and Silver.</p>
+            <p n="4">
+               <hi>4.</hi> The Land by virtue of theſe Bills of Credit will be as capable of any Signa<g ref="char:EOLhyphen"/>ture as Gold or Silver: and altho the Gold and Silver Pieces may, and now are generally of far leſs Value than the Stamp denotes them to be, theſe Bills of Credit will convey a much greater Value along with them than will be mentioned in the Bills.</p>
+            <p n="5">
+               <hi>5.</hi> Land is leſs periſhable than Gold or Silver; thoſe will waſte and decay, whereas Land will not.</p>
+            <p>Land therefore being inveſted with all the Properties or Qualifications, ſo far as relates to Commutation or Dealing between Man and Man, give me leave to ſay wherein our Land exceeds Gold and Silver.</p>
+            <p>
+               <hi>1ſt.</hi> In regard it will not only ſerve to paſs and repaſs in Payment, as Money will, but it is a living Stock, the Land being prolifick and fertile, whereas Gold and Silver in the Cheſt produces nothing but the Canker.</p>
+            <p>
+               <hi>2dly.</hi> Gold and Silver is impair'd and waſted by Clipping, Filing, <hi>&amp;c.</hi> Lands will ſtill keep and retain their Value ſo as to be more than enough in Value to ſecure thoſe who take it in Payment, that they ſhall be no Loſers, in regard there will be no Bills of Credit advanced to their Majeſties, but there will be almoſt three times the Value engaged to make it good.</p>
+            <p>But I have heard it objected by ſome worthy Gentlemen, and I find it is a Notion promoted by the Bank, one of the Directors making uſe of it as his main Argument, that People will not part with their Goods, but they will make their Bargain not to take this Land-Money, but Gold or Silver Money: whereas this is but begging the Queſtion; for I may with more Reaſon aſſert, that People will rather make it part of their Bargain that they will not accept of their Pay<g ref="char:EOLhyphen"/>ment in Silver Money, where they muſt take <hi>50 l.</hi> for <hi>100 l.</hi> but that they will have Land-Money, where they are ſure they can be no Loſers; for whenſoever your Honours ſhall think fit to take the Buſineſs of our Money into your Conſide<g ref="char:EOLhyphen"/>ration,
+<pb n="vii" facs="tcp:56392:4"/>ſo as to reduce it to its true Weight, I doubt, where-ever it falls, there will be <hi>50 l. per cent.</hi> Loſs; and it may be worth your Honours Conſideration, whether it is fit that the Freeholders Lands that have been eat up by the monied Men, or the Money it ſelf whereſoever it is found, ſhould bear the Loſs for want of Weight: and the Bank of <hi>England</hi> are already ſo ſagacious and quick-ſighted, that they are treaſuring up all the Guineas they can get, inſomuch that our Gui<g ref="char:EOLhyphen"/>neas are already come to paſs for almoſt as much as our broad Gold. And there<g ref="char:EOLhyphen"/>fore unleſs a more ſubſtantial Argument can be brought againſt theſe Bills of Cre<g ref="char:EOLhyphen"/>dit or Land-Money than this, that People will refuſe to take them, I hope your Honours will not think it reaſonable that the Gentlemen of <hi>England</hi> ſhould be ruined, and our Trade deſtroyed, to gratify the Humours, or ſute with the Ad<g ref="char:EOLhyphen"/>vantage of ſome particular Perſons.</p>
+            <p>What I propoſe is no <hi>Herculean</hi> Task, but I have made it as plain as is the Sun when in his <hi>Meridian,</hi> that it is both reaſonable and practicable; and therefore I hope your Honours will conſider the Perſons Circumſtances as well as their Argu<g ref="char:EOLhyphen"/>ments, who ſhall object againſt theſe Propoſals: for I muſt needs ſay, I have found the greateſt Part of my Opponents either ſuch who have little or no Land to ſettle, or who deal with the Government, and make a Merchandize of it, by working upon our Neceſſity, or who right or wrong, will endeavour to ſupport ſome little Intereſt of their own in the Bank, or ſome of the other Funds.</p>
+            <p>I muſt confeſs I am ſorry to ſee that Littleneſs of Spirit, and Narrowneſs of Soul, that is too frequent among us: How few are there who can ſincerely ſay, <hi>Dulce &amp; decorum eſt pro Patria mori?</hi> But I fear I ſhall tranſgreſs, only I beg leave to inform your Honours, that ſome Perſons have induſtriouſly reported, and Dr. <hi>Chamberlen</hi> himſelf would ſeem to inſinuate, that my Propoſals are borrowed from him, but that I have ſomething diſguiſed the ſame: I ſhall there<g ref="char:EOLhyphen"/>fore give your Honours a very brief Account of his and my Propoſals, as I have it out of his own printed Papers, which I am at any time ready to produce before your Honours. But becauſe I find the Doctor is unreſolved, and very apt to alter his Mind, as appears by two ſeveral Papers by him publiſhed this Year, I ſhall take notice of them both. In his Book intituled, <hi>Some uſeful Re<g ref="char:EOLhyphen"/>flections upon a Pamphlet, called, A brief Account of the intended Bank of England,</hi> he propoſes that any Perſon who hath an Eſtate of <hi>150 l per annum,</hi> may ſubſcribe the ſame for <hi>150</hi> Years, for Payment of <hi>100 l. per annum</hi> for <hi>100</hi> Years. In his laſt Paper, intituled, <hi>A ſhort Abſtract of Dr.</hi> Chamber<g ref="char:EOLhyphen"/>leu<hi>'s Propoſals,</hi> he propoſes that <hi>100 l. per annum</hi> ſhould be ſubſcribed to pay <hi>100 l. per annum</hi> by <hi>100</hi> annual Payments in <hi>150</hi> Years. Both by his Book in Page <hi>18</hi> and <hi>23.</hi> and in his Paper, he propoſes that <hi>10000 l.</hi> value in Braſs Tickets be iſſued out thereupon, <hi>4000</hi> to be paid the Subſcriber, <hi>2000</hi> to a Joint Stock, <hi>2000</hi> to the War, and <hi>2000</hi> to himſelf to defray the Charges.</p>
+            <p>So that, <hi>1ſt,</hi> the Doctor propoſes by his Book to oblige the Subject to take <hi>10000 l.</hi>
+               <pb n="viii" facs="tcp:56392:5"/>in Tickets upon <hi>3000 l.</hi> Security; or, according to his last Paper, upon <hi>2000 l.</hi> Fund, which is no Security: whereas I propoſe that no more than <hi>2000 l.</hi> ſhall be iſſued out upon <hi>2000 l.</hi> Value in Land, upon the Pain and Penalty of High Treaſon.</p>
+            <p n="2">
+               <hi>2dly.</hi> The Doctor propoſes <hi>2000 l.</hi> out of every hundred Pound <hi>per annum</hi> to himſelf and Friends for Management, which is the full Value of all the Land propoſed by him to be ſubſcribed; which for <hi>20</hi> Millions, of which their Majeſties are to have but <hi>4</hi> Millions, the Doctor is to have four Millions to himſelf, <hi>&amp;c.</hi> for Management: whereas I propoſe only <hi>40000 l. per annum</hi> payable to the Commiſſioners and Directors for <hi>20</hi> Millions advanced to their Majeſties, for ſo long time as it ſhall remain unpaid.</p>
+            <p n="3">
+               <hi>3dly.</hi> The Doctor in his Book propoſes a Gentleman to pay <hi>100 l. per annum</hi> out of <hi>150 l. per annum,</hi> for <hi>100</hi> Years; and by the laſt Paper he propoſes that the Subſcribers part with their whole Eſtates ſubſcribed for <hi>100</hi> Years: whereas on the contrary I propoſe to double a Gentleman's yearly Eſtate, by bringing it from <hi>80 l.</hi> to <hi>150</hi> or <hi>160 l. per annum,</hi> unleſs a Gentleman take up Bills of Credit upon his Eſtate; in ſuch caſe, I propoſe an eaſy way to accommodate him upon Payment of <hi>10 s. per cent. per annum,</hi> or upon a ſmall Annuity, which the Doctor never pretended to mention a Word of.</p>
+            <p>The Doctor propoſes that the Freehold-Land ſhould pay the whole advanc'd Braſs Tickets; whereas I propoſe the Money lent their Majeſties ſhould be paid out of a Parliamentary Fund.</p>
+            <p>Then the Doctor inſinuates, that my Propoſals are leſs encouraging to the Free<g ref="char:EOLhyphen"/>holder than thoſe propoſed by him; in which he very much miſtakes: for but bare<g ref="char:EOLhyphen"/>ly to mention that he propoſes to bury Gentlemens yearly Eſtates for <hi>100</hi> Years, and I propoſe to double them, yet admit that according to his Reckoning a Gen<g ref="char:EOLhyphen"/>tleman may have <hi>6000 l.</hi> upon Payment of <hi>100 l. per annum</hi> for <hi>100</hi> Years, whoever will take the Pains to conſider my Propoſals, will find a Gentleman may have <hi>6666 l. 13 s. 4. d.</hi> for <hi>100 l. per annum</hi> for the like Term of <hi>100</hi> Years: So that the Doctor is very much out in his Calculation, and indeed it is plain he knows not himſelf what he would be at. However he having, as he ſets forth, taken a great deal of Pains, I heartily wiſh that altho he hath not been ſo happy as to bring to Maturity what he hath been ſo long hammering upon, or to render it practicable, that he may be notwithſtanding gratified at leaſt for his good Intention, ſo that his Expectations be within the Bounds of Reaſon. I ſhould not have troubled your Honours with this, had not the Doctor, without any Provocation from me, writ a Pamphlet againſt me, wherein he hath moſt plainly miſrepreſented, I may indeed ſay falſified, both his own and my Propoſals, which a Friend of mine hath fully anſwered. I am</p>
+            <closer>
+               <signed>Your Honours moſt Humble and moſt Obedient Servant, <hi>JOHN BRISCOE.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:56392:5"/>
+            <head>
+               <hi>A DIALOGUE between a</hi> Freeholder <hi>and</hi> Philanglus.</head>
+            <sp>
+               <speaker>Freeholder.</speaker>
+               <p>SIR, I underſtand you have lately offered ſome Propoſals to the Parliament for ſupplying their Majeſties with Money, and enriching all the Subjects in the Kingdom; but altho I have read your Propoſals, and peruſed your Tables, I confeſs I do not well underſtand them.</p>
+            </sp>
+            <sp>
+               <speaker>Philanglus.</speaker>
+               <p>Sir, probably you are not uſed to Figures, or to the caſting up of great Sums, for I have endeavoured to draw them up with as much Perſpicuity and Plainneſs as poſſibly I could; but however I will reſolve you any Queſtion you ſhall pleaſe to ask me relating to my Scheme.</p>
+            </sp>
+            <sp>
+               <speaker>Freeh.</speaker>
+               <p>Sir, I thank you; and becauſe we generally comprehend any thing relating to our own Affairs more readily than that wherein we are no ways intereſted, I ſhall propoſe a Queſtion to you that particularly concerns my ſelf.</p>
+               <p>I have an Eſtate of 100 <hi>l. per annum</hi> in <hi>Oxfordſhire,</hi> and I would willing<g ref="char:EOLhyphen"/>ly have ſome of your Bills of Credit upon it, pray how muſt I ſettle my Eſtate?</p>
+            </sp>
+            <sp>
+               <speaker>Philang.</speaker>
+               <p>There is to be a general Regiſter kept in <hi>London,</hi> and a parti<g ref="char:EOLhyphen"/>cular Regiſter in the chief City or Town in each County, wherein all Eſtates propoſed to be ſettled, are to be entred, (<hi>as in Propoſal</hi> 2.) In this general Regiſter in <hi>London,</hi> and in the particular Regiſter kept in <hi>Oxon,</hi> you are to enter your Chriſtian and Sirname, the Title you give your ſelf, as Knight, Eſquire, Gentleman, Merchant, <hi>&amp;c.</hi> your Place of Abode, the Particulars of and Title to your Eſtate, (<hi>as in Propoſal</hi> 3.) You having done this, the Commiſſioners Agents in the City of <hi>Oxon</hi> will examine whether you are the Owner of the ſaid Eſtate, how you came by ſuch Eſtate, whether as an Heir, Legatee or Purchaſer; and how much your Eſtate is worth <hi>per annum,</hi> &amp;c. and what Information they meet with they are to tranſmit it to the Commiſſioners, (<hi>as in Propoſal</hi> 4.) You are likewiſe to carry the Writings of your Eſtate to the Commiſſioners, who will appoint three Counſel to examine, whether it appears by the Wri<g ref="char:EOLhyphen"/>tings you have a good Title to ſuch Eſtate; and if the Counſel ſhall ap<g ref="char:EOLhyphen"/>prove of the Title, they are to ſignify ſuch their Approbation under their Hands, (<hi>as in Propoſal</hi> 5.) And if no Caveat be entred in the general or particular Regiſters againſt your ſettling the ſaid Eſtate, for the ſpace of
+<pb n="2" facs="tcp:56392:6"/>ſix Months after your entry of the ſame in the ſaid Regiſters, you muſt bring two credible Perſons who are to make Oath before the Commiſſio<g ref="char:EOLhyphen"/>ners, that your Eſtate is worth <hi>(bona fide)</hi> 100 <hi>l. per annum;</hi> and the Commiſſioners thereupon will ſettle your Eſtate by entring it in their Books, and will iſſue out Bills of Credit for 2000 <hi>l.</hi> being the Value of 20 Years Purchaſe of your Eſtate, <hi>(as in Propoſal</hi> 3.) you firſt ſettling your Eſtate upon 20 Commiſſioners to be appointed (as in the firſt Pro<g ref="char:EOLhyphen"/>poſal) for that purpoſe, in Truſt for a Security to make good all the ſaid 2000 Pound Bills of Credit, <hi>(as in Propoſal</hi> 1.)</p>
+            </sp>
+            <sp>
+               <speaker>Freeh.</speaker>
+               <p>Here is a deal of Ceremony indeed; why few Men are at half this trouble in purchaſing, as you propoſe there ſhall be in ſettling an Eſtate.</p>
+            </sp>
+            <sp>
+               <speaker>Philang.</speaker>
+               <p>There is no more propoſed than what is neceſſary, as well for the Security of the Freeholder, as for thoſe who ſhall take the Bills of Credit iſſued out upon the Security of their Eſtates.</p>
+            </sp>
+            <sp>
+               <speaker>Freeh.</speaker>
+               <p>Why, at this rate it will be almoſt impoſſible that any undue Settlements can be made.</p>
+            </sp>
+            <sp>
+               <speaker>Philang.</speaker>
+               <p>It will not be very eaſy for any Perſon to ſettle an Eſtate he hath no Right to.</p>
+            </sp>
+            <sp>
+               <speaker>Freeh.</speaker>
+               <p>But ſuppoſe, notwithſtanding all your Precaution, an Eſtate ſhould be ſettled by a Perſon who hath no Right to ſettle it, for there may be dormant Titles; nay, two or three may juggle together to make a Cheat of it: and what muſt thoſe do who take the Bills of Credit iſſued out on ſuch Eſtate?</p>
+            </sp>
+            <sp>
+               <speaker>Philang.</speaker>
+               <p>Do? all one as if the Title were good; for let who will have the right Title, the Eſtate, if once ſettled, ſhall be a Security for the Bills of Credit iſſued out thereupon.</p>
+            </sp>
+            <sp>
+               <speaker>Freeh.</speaker>
+               <p>I find then you have taken Care that <hi>no Perſons can be loſers by the Bills of Credit:</hi> but pray what muſt the poor Freeholder do whoſe Eſtate is dipp'd for theſe Bills of Credit?</p>
+            </sp>
+            <sp>
+               <speaker>Philang.</speaker>
+               <p>He ſhall have his Remedy at Law againſt the Perſon who made ſuch undue Settlement, and ſhall be entituled to all Profits that have been or ſhall be made by virtue of ſuch undue Settlement, (<hi>as in Pro<g ref="char:EOLhyphen"/>poſal</hi> 7.)</p>
+            </sp>
+            <sp>
+               <speaker>Freeh.</speaker>
+               <p>Then the undue Settlement doth not diveſt any Man of his Freehold.</p>
+            </sp>
+            <sp>
+               <speaker>Philang.</speaker>
+               <p>No; if it ſhall appear that he is the right Owner, the Fee will ſtill be continued to him; all the Damage to him will be, what Pro<g ref="char:EOLhyphen"/>fits he who ſhall have ſettled the Eſtate will have received by virtue of ſuch undue Settlement, and for that he will have his Remedy at Law, as hath been ſaid.</p>
+            </sp>
+            <pb n="3" facs="tcp:56392:6"/>
+            <sp>
+               <speaker>Freeh.</speaker>
+               <p>True; but ſuppoſe he be gone beyond Sea out of the Free<g ref="char:EOLhyphen"/>holder's reach.</p>
+            </sp>
+            <sp>
+               <speaker>Philang.</speaker>
+               <p>If he could produce ſo good a Title as to deceive the Com<g ref="char:EOLhyphen"/>miſſioners, their Counſel and Agents, he might as well have ſold this Eſtate and have gone away with the Money.</p>
+            </sp>
+            <sp>
+               <speaker>Freeh.</speaker>
+               <p>What then? the Freeholder would have had his Eſtate.</p>
+            </sp>
+            <sp>
+               <speaker>Philang.</speaker>
+               <p>Yes, but the Purchaſer would have loſt his Money; and a Cheat is a Cheat, let it be on which ſide it will: but yet I will make it ap<g ref="char:EOLhyphen"/>pear that notwithſtanding ſuch undue Settlement, the Freeholder may then ſell his Eſtate for as much as now he can.</p>
+            </sp>
+            <sp>
+               <speaker>Freeh.</speaker>
+               <p>If you can prove that, you will do ſomething.</p>
+            </sp>
+            <sp>
+               <speaker>Philang.</speaker>
+               <p>I will. I ſuppoſe you will grant, that an Eſtate in Land will not yield now above 20 Years Purchaſe; and I have proved in my Book, that theſe late Funds will in time bring Land to 12 or 14 Years Purchaſe, eſpecially if we ſhould raiſe more Money by the ſame Methods. Now if my Propoſals take effect, Land will be worth 40 or 50 Years Pur<g ref="char:EOLhyphen"/>chaſe, and no Man can engage any Eſtate for more than 20 Years Pur<g ref="char:EOLhyphen"/>chaſe; ſo that the Remainder or Fee will be worth 20 if not 30 Years Purchaſe, being as much or more than he can now ſell it for.</p>
+            </sp>
+            <sp>
+               <speaker>Freeh.</speaker>
+               <p>You will do well to make that out.</p>
+            </sp>
+            <sp>
+               <speaker>Philang.</speaker>
+               <p>Sir, I ſhall do it in the Series of our Diſcourſe, but it will be too great a Digreſſion from what we were upon, and therefore for the preſent I refer you to read the 17th and 18th Queries.</p>
+            </sp>
+            <sp>
+               <speaker>Freeh.</speaker>
+               <p>I am contented. Now as to the Settlement of my Eſtate; ſuppoſe I have ſome little Flaw in my Title, may I not notwithſtanding ſettle my Eſtate?</p>
+            </sp>
+            <sp>
+               <speaker>Philang.</speaker>
+               <p>No, by no means; for no Perſon may be permitted to ſettle his Eſtate, till he hath cleared up his Title, (<hi>as in Propoſal</hi> 6.)</p>
+            </sp>
+            <sp>
+               <speaker>Freeh.</speaker>
+               <p>But may I not then ſettle my Eſtate if it be mortgaged?</p>
+            </sp>
+            <sp>
+               <speaker>Philang.</speaker>
+               <p>Yes, you may; but then you muſt give the Mortgagee three Months notice in Writing of ſuch your intended Settlement, and you muſt pay the Mortgagee his Principal, Intereſt and Charges, before you can receive any Advantage by ſuch Settlement, (<hi>as in Propoſal</hi> 8.)</p>
+            </sp>
+            <sp>
+               <speaker>Freeh.</speaker>
+               <p>But ſuppoſe the Mortgagee hath the Writings of my Eſtate, what muſt I do for them to carry them to the Commiſſioners Counſel, if the Mortgagee will not let me have them?</p>
+            </sp>
+            <sp>
+               <speaker>Philang.</speaker>
+               <p>The Commiſſioners may have Power by the Act to command ſuch Writings out of the Mortgagee's Hands for ſo long time as they ſhall think neceſſary for the peruſal of them, any two or more of the Com<g ref="char:EOLhyphen"/>miſſioners ſignifying the Receipt of ſuch Writings under their Hands.</p>
+            </sp>
+            <pb n="4" facs="tcp:56392:7"/>
+            <sp>
+               <speaker>Freeh.</speaker>
+               <p>But ſhall every Man who hath an Eſtate be forc'd to ſettle it?</p>
+            </sp>
+            <sp>
+               <speaker>Philang.</speaker>
+               <p>No, any Man may, but no Perſon is to be compell'd to ſettle his Eſtate, (<hi>as in Propoſal</hi> 1.)</p>
+            </sp>
+            <sp>
+               <speaker>Freeh.</speaker>
+               <p>But when I have got my 2000 <hi>l.</hi> Bills of Credit, what can I do with them?</p>
+            </sp>
+            <sp>
+               <speaker>Philang.</speaker>
+               <p>The ſame that you would do with 2000 <hi>l.</hi> in Money, the ſaid Bills being to be current in Payment by Indorſement <hi>toties quoties, (as in Propoſal</hi> 9.)</p>
+            </sp>
+            <sp>
+               <speaker>Freeh.</speaker>
+               <p>But ſuppoſe I lend my 2000 <hi>l.</hi> Bills to their Majeſties, what Advantage ſhall I have for the Loan of them?</p>
+            </sp>
+            <sp>
+               <speaker>Philang.</speaker>
+               <p>You ſhall have 3 <hi>l. per cent. per annum</hi> Intereſt, (<hi>as in Propo<g ref="char:EOLhyphen"/>ſal<g ref="char:punc">▪</g>
+                  </hi> 17.) and be excuſed from the Land-Tax of 4 <hi>s.</hi> in the Pound, (<hi>as in Propoſal</hi> 20.)</p>
+            </sp>
+            <sp>
+               <speaker>Freeh.</speaker>
+               <p>But who muſt receive the Profits of my Eſtate?</p>
+            </sp>
+            <sp>
+               <speaker>Philang.</speaker>
+               <p>Your ſelf; and whereas you receive now from your Tenant 80 <hi>l. per annum</hi> in Money, and 20 <hi>l. per annum</hi> in Tax-Bills for your 100 <hi>l. per annum,</hi> you will receive then by my Method 100 <hi>l. per annum</hi> in Money from your Tenant, and 30 <hi>l.</hi> every half Year from the Com<g ref="char:EOLhyphen"/>miſſioners; ſo that you will have 160 <hi>l. per annum</hi> inſtead of 80 <hi>l. per annum, (as in Propoſal</hi> 17.)</p>
+            </sp>
+            <sp>
+               <speaker>Freeh.</speaker>
+               <p>Why this will double my Eſtate: But when muſt my Eſtate be clear from this Incumbrance?</p>
+            </sp>
+            <sp>
+               <speaker>Philang.</speaker>
+               <p>When the Government or your ſelf pay off the 2000 <hi>l.</hi> Bills of Credit.</p>
+            </sp>
+            <sp>
+               <speaker>Freeh.</speaker>
+               <p>At that rate my Eſtate may never be cleared, unleſs their Ma<g ref="char:EOLhyphen"/>jeſties pay off the Money and clear it.</p>
+            </sp>
+            <sp>
+               <speaker>Philang.</speaker>
+               <p>To what purpoſe ſhould you deſire to clear your Eſtate, unleſs you had rather have 80 <hi>l.</hi> or 100 <hi>l. per annum,</hi> than 160 <hi>l. per annum?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Freeh.</speaker>
+               <p>But how can I ſell my Eſtate if I have a mind to do it?</p>
+            </sp>
+            <sp>
+               <speaker>Philang.</speaker>
+               <p>As well as you may or can do now; for any Man that would ſettle an Eſtate will buy an Eſtate that is ſettled, and ſo much the rather becauſe the Title is approved: But I muſt needs ſay I am againſt this Payment of <hi>perpetual Intereſt,</hi> tho it be but 3 <hi>l. per cent. per annum,</hi> be<g ref="char:EOLhyphen"/>cauſe it <hi>entails a perpetual Tax upon the Subject.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Freeh.</speaker>
+               <p>It is true, it does; but have you then any other or better way for the Supply of their Majeſties?</p>
+            </sp>
+            <sp>
+               <speaker>Philang.</speaker>
+               <p>Yes; and that is to advance Bills of Credit to their Majeſties upon the Payment of an Annuity for ſome certain Term of Years, (<hi>as in Propoſal</hi> 18.)</p>
+            </sp>
+            <sp>
+               <speaker>Freeh.</speaker>
+               <p>But which way muſt the Intereſt-Money and theſe Annuities be paid?</p>
+            </sp>
+            <pb n="5" facs="tcp:56392:7"/>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>They muſt be paid out of ſome Fund to be ſettled by Parliament for that purpoſe, as the Fund of 100000 <hi>l. per annum,</hi> payable out of the Exciſe, was ſettled by the Parliament for the Payment of perpetual Inte<g ref="char:EOLhyphen"/>reſt for 1200000 <hi>l.</hi> to the Bank of <hi>England, (as in Propoſal</hi> 18, 28.)</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>Why then <hi>theſe Bills of Credit will have a double Security;</hi> Firſt, a Security of Freehold Land at the firſt iſſuing out of the Bills: Secondly, a Parliamentary Fund ſettled for the Payment of Principal and Intereſt upon advancing them to their Majeſties.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>They have ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>If the Parliament had raiſed Money on that Fund by your Methods, they might have had much more Money than they had of the Bank.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Yes, they might have had above three Millions and three hundred thirty three thouſand Pounds on the ſame Fund.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>There is a vaſt Diſproportion.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Yes, the Difference is as 3 <hi>l. per cent.</hi> is to 8 <hi>l.</hi> 6 <hi>s.</hi> 8 <hi>d. per cent. per annum;</hi> ſo that by that one Article the Nation might have ſaved 64000 <hi>l. per annum.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>And that is a great deal of Money: But pray favour me in explain<g ref="char:EOLhyphen"/>ing the Table of Annuities in Propoſal 18. which I do not well under<g ref="char:EOLhyphen"/>ſtand; for I find you have propoſed, that their Majeſties, their Heirs and Succeſſors ſhall pay the ſaid Annuities according to the ſeveral Terms or Number of Years therein particularly ſet down and expreſs'd: But how do you propoſe the Principal ſhall be paid?</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>The ſaid Annuities are to be paid in lieu of Principal and Intereſt for the Bills of Credit iſſued out to their Majeſties.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>That is impoſſible. Can 6 <hi>l.</hi> 10 <hi>s. per annum</hi> for 25 Years, diſcharge the Principal and Intereſt of 100 <hi>l.</hi> advanced to their Majeſties, as in Propoſal 18. when the Bank of <hi>England</hi> have 8 <hi>l.</hi> 6 <hi>s.</hi> 8 <hi>d. per cent. per annum,</hi> perpetual Intereſt?</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Yes, and I have made it plain; for in Propoſal 19. you will find that the Commiſſioners and Directors are to pay 2 <hi>l.</hi> 10 <hi>s. per cent. per annum</hi> to the Perſons, upon the Security of whoſe Eſtates ſuch Bills of Credit are iſſued out, and with the Reſidue of ſuch Annuities they are to pay off and cancel every Year part of the Bills of Credit in diſcharge of ſo much of the Principal, till all ſhall be paid and cancell'd; ſo that the 2 <hi>l.</hi> 10 <hi>s. per cent. per annum</hi> paid to the Freeholder, being deducted out of the 6 <hi>l.</hi> 10 <hi>s. per cent. per annum</hi> Annuity, there will remain 4 <hi>l. per an<g ref="char:EOLhyphen"/>num,</hi> which in 25 Years pays off the 100 <hi>l.</hi> Principal.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>This indeed is very plain; but becauſe it is a Notion I have not been uſed to, I deſire to ſtate a Caſe my ſelf.</p>
+               <pb n="6" facs="tcp:56392:8"/>
+               <p>Suppoſe I ſettle my Eſtate of 100 <hi>l. per annum,</hi> upon which the Com<g ref="char:EOLhyphen"/>miſſioners, <hi>&amp;c.</hi> iſſue out 2000 <hi>l.</hi> Bills of Credit; theſe I lend their Ma<g ref="char:EOLhyphen"/>jeſties upon an Annuity paiable out of ſome Parliamentary Fund for 20 Years, which by your Table of Annuities in Propoſal 18. is 7 <hi>l.</hi> 10 <hi>s. per cent. per annum:</hi> ſo that (if I apprehend it right) the Commiſſioners receive out of a Fund (payable we will ſuppoſe out of the Exciſe) 150 <hi>l. per annum</hi> Annuity for my 2000 <hi>l.</hi> Bills of Credit, and the like for every 2000 Pounds value in Bills of Credit advanced to their Majeſties for the ſaid Term: the Commiſſioners with 100 <hi>l. per annum,</hi> part of the ſaid Annuity of 150 <hi>l. per annum,</hi> pay off and cancel every Year Bills of Cre<g ref="char:EOLhyphen"/>dit to the value of 100 <hi>l.</hi> and ſo in 20 Years time the whole 2000 <hi>l.</hi> will be paid off and cancell'd, and then my Eſtate will be clear; and the other 50 <hi>l. per annum,</hi> the Reſidue of the Annuity of 150 <hi>l. per annum,</hi> the Commiſſioners are to pay me during the whole 20 Years, till the laſt 100 <hi>l.</hi> Principal ſhall be paid, and my Eſtate cleared.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Sir, you apprehend it very right.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>Why at this rate their Majeſties might have had a Million of Money for 8 <hi>l.</hi> 15 <hi>s. per cent. per annum</hi> Annuity for 16 Years, whereas they paid the Contributors to the Lottery-Act 14 <hi>l. per cent. per annum</hi> for 16 Years, and that amounts to a great deal upon a Million of Money.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Yes, it would have ſaved 52500 <hi>l. per annum</hi> to their Majeſties, as I will ſhow you preſently when I come to explain the third and fourth Tables in <hi>pag.</hi> 34. for they are calculated from this Table of Annuities.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>Seeing thoſe Tables are calculated from this Table of Annuities, I think, with ſubmiſſion, it is no Interruption to your Explanation of the Propoſals, to explain thoſe Tables now before we proceed further.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>With all my Heart, tho theſe Tables explain themſelves. If you obſerve the ſecond and third Columns in both Tables, they anſwer to a tittle this Table of Annuities, except the word <hi>Perpetual</hi> in each of the ſecond Columns, and the 3 <hi>l.</hi> in each of the third Columns, which anſwer to the 16th Propoſal. Now in this Table of Annuities in Propoſal 18. I ſet forth, that their Majeſties are to pay 8 <hi>l.</hi> 15 <hi>s. per annum</hi> Annuity for 16 Years for 100 <hi>l.</hi> Of this in Propoſal 19. the Freeholder who ſettles his Eſtate for the Security of the Bills of Credit, muſt have 2 <hi>l.</hi> 10 <hi>s. per annum,</hi> and the Reſidue, being 6 <hi>l.</hi> 5 <hi>s. per annum,</hi> is to pay off the 100 <hi>l.</hi> Principal in 16 Years. Now as this Table is to ſhow the Annuity of 100 <hi>l.</hi> for any Term of Years, thoſe Tables are to ſhow the Annuity for one or more Millions on the ſame Terms: As for Example, The Annuity of 100 <hi>l.</hi> for 16 Years is 8 <hi>l.</hi> 15 <hi>s.</hi> and the Annuity of a Million after the rate of 8 <hi>l.</hi> 15 <hi>s. per cent. per annum,</hi> comes to 87500 <hi>l. per annum,</hi> as you may perceive by the 4th Table in the 4th Column: The 2 <hi>l.</hi> 10 <hi>s.
+<pb n="7" facs="tcp:56392:8"/>per cent. per annum</hi> payable to the Freeholder for a Million value of Bills of Credit, comes to 25000 <hi>l. per annum,</hi> as in the 7th Column; and the 6 <hi>l.</hi> 5 <hi>s. per cent. per annum,</hi> which is to pay off the Principal for a Million of Money, comes to 62500 <hi>l. per annum,</hi> as in the 7th Column of the 4th Table: So that whereas their Majeſties pay now 140000 <hi>l. per annum,</hi> being 14 <hi>l. per cent. per annum,</hi> for 16 Years for a Million, their Majeſties will have a Million for 87500 <hi>l. per annum,</hi> being but 8 <hi>l.</hi> 15 <hi>s. per cent. per annum</hi> for 16 Years, which will be 52500 <hi>l. per annum</hi> ſaved to their Majeſties in one Million of Money. And the Gentlemen who ſhould ſet<g ref="char:EOLhyphen"/>tle their Eſtates to the value of 50000 <hi>l. per annum,</hi> as in the 5th Column, for the Security of the Million value in Bills of Credit, will be exempted from Taxes, and almoſt double their Eſtate, having 150 <hi>l. per annum,</hi> where they have now but 80 <hi>l. per annum.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>Why this (according to the old Proverb) is killing two Birds with one Stone; for, firſt, <hi>their Majeſties will ſave</hi> 52500 <hi>l. per annum,</hi> and <hi>the Gentlemen will be excuſed from Taxes, and will have their Eſtates almoſt doubled.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>You have rightly obſerved.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>Why <hi>this will bring all the Freeholders of</hi> England <hi>into their Majeſties Intereſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>It will ſo without doubt.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>I think now you have made out the Title Page of your Book: But pray explain the third Table.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>It is the ſame with the fourth Table; only as the fourth Table ſhows what Annuity the Parliament may ſettle for a Million advanced for any Term of Years, ſo the third Table ſhows how much Money they may raiſe upon 100000 <hi>l. per annum</hi> Annuity ſettled for any certain Term: As ſuppoſe the Parliament ſettle an Exciſe, or other Annual Fund for the Payment of 100000 <hi>l. per annum</hi> Annuity, they may know by this Table for what Term to ſettle it, according to the Sum which they have occaſion to raiſe; if they want almoſt 3 Millions upon it, they muſt ſettle it for 100 Years; if only two Millions be required, 40 Years Settle<g ref="char:EOLhyphen"/>ment is enough; but if they want no more than one Million, they need ſettle it for no longer than 13 Years, 4 Months.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>And pray, why 13 Years 4 Months, and not 13 or 14 Years?</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>I am not for gueſs-Work, but for doing Buſineſs with Exactneſs: I have propoſed in the 7th Column of the third and fourth Tables 75000 <hi>l. per annum</hi> to pay off a Million in 13 Years 4 Months, and that will do it; whereas if I ſhould have put down but 13 Years, there would have been 25000 <hi>l.</hi> too little; and if I had put down 14 Years, there would have been 50000 <hi>l.</hi> too much.</p>
+            </sp>
+            <pb n="8" facs="tcp:56392:9"/>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>I now apprehend your Reaſons for the odd Months, and I ſuppoſe it is the ſame for 66 Years 8 Months, and 33 Years 4 Months.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>It is ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>But pray, what muſt thoſe have who ſettle their Eſtates to the value of 50000 <hi>l. per an.</hi> for the Security of a Million value in Bills of Credit?</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>The ſixth Column in both Tables ſhows you it is 25000 <hi>l. per annum.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>I now underſtand it perfectly; for by the third Table 100000 <hi>l. per annum</hi> Fund ſettled for 66 Years 8 Months, will at 4 <hi>l. per cent. per annum,</hi> raiſe 2500000 <hi>l.</hi> Bills of Credit: Gentlemen muſt ſettle 125000 <hi>l. per annum</hi> Freehold Eſtates for the Security of thoſe Bills of Credit, they muſt have 62500 <hi>l. per annum</hi> among them for ſettling their Eſtates, and 37500 <hi>l. per annum</hi> in 66 Years 8 Months pays off the 2500000 <hi>l.</hi> Principal.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>You take it right.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>But have you not propoſed too little Advantage to ſuch who ſhall advance their Bills of Credit, iſſued out upon the Security of their Eſtates, to their Majeſties upon the Payment of an Annuity?</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>No, I have propoſed 7 <hi>l. per cent. per annum</hi> during the War, and 5 <hi>l. per cent. per annum</hi> in time of Peace.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>And if I miſremember not, you ſaid juſt now, that ſuch who ad<g ref="char:EOLhyphen"/>vanced their Bills of Credit to their Majeſties upon Payment of an An<g ref="char:EOLhyphen"/>nuity, ſhould have 2 <hi>l.</hi> 10 <hi>s. per cent. per annum.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>I did ſo, and yet both my Aſſertions are true; admit I advance 1000 <hi>l.</hi> Bills of Credit to their Majeſties upon the Payment of 12 <hi>l.</hi> 10 <hi>s. per cent. per annum</hi> for 10 Years, their Majeſties are to pay 125 <hi>l. per annum</hi> for 10 Years for 1000 <hi>l.</hi> the Commiſſioners with 100 <hi>l. per annum</hi> part of the ſaid Annuity, are to pay off one tenth part of the Principal every Year, and the 25 <hi>l. per annum</hi> I muſt receive till the laſt 100 <hi>l.</hi> be paid; ſo that I muſt not reckon my Eſtate is engaged for 1000 <hi>l.</hi> but for 500 <hi>l.</hi> the Medium of 1000 <hi>l.</hi> and the 25 <hi>l. per annum,</hi> which I am to receive from the Commiſſioners, and 10 <hi>l. per annum</hi> I ſhall ſave in Taxes during the War, is 35 <hi>l.</hi> which upon 500 <hi>l.</hi> is 7 <hi>l. per cent. per an.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>So, ſay you, my Eſtate is engaged for as much leſs than 500 <hi>l.</hi> the five laſt Years, as it is engaged for more than 500 <hi>l.</hi> for the five firſt Years; but notwithſtanding the Incumbrance is leſſen'd, my Annuity of 25 <hi>l. per annum</hi> is continued.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Yes, you have my meaning.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>But ſuppoſe I want Bills of Credit for my own Occaſions, how muſt I have them?</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>You may have the Bills of Credit on the Security of your own Eſtate for your own proper Uſe; but then you muſt not expect to be ex<g ref="char:EOLhyphen"/>empted from Taxes.</p>
+            </sp>
+            <pb n="9" facs="tcp:56392:9"/>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>No? Why I thought all that ſettled their Eſtates were to be ex<g ref="char:EOLhyphen"/>cuſed from the Taxes of 4 <hi>s.</hi> in the Pound.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>No, you miſtake, thoſe only are to be free from the Land-Tax who advance their Bills of Credit to their Majeſties.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>Now I underſtand it: But a Perſon of my Acquaintance was ſay<g ref="char:EOLhyphen"/>ing, that it would be an Injury to the Government to excuſe any one from Taxes; and that you propoſe to give their Majeſties with one Hand, and to take away with the other.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>I believe I know your Friend, he hath advanced a good round Sum of Money upon theſe late Funds, if I am not miſinformed.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>Yes, he hath ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>And I am ſure the Money he advanced is excuſed from Taxes by Act of Parliament; but I find ſome People are very careful that the Freeholders of <hi>England</hi> ſhall not be excuſed a Farthing, for their Backs are broad enough: but to ſhow the Weakneſs of this Gentleman's Ob<g ref="char:EOLhyphen"/>jection, Suppoſe you ſettle your Eſtate of 100 <hi>l. per annum,</hi> and advance to their Majeſties 2000 <hi>l.</hi> Bills of Credit on an Annuity for 25 Years, the Annuity for 25 Years is 6 <hi>l.</hi> 10 <hi>s. per cent. per an.</hi> the 20 <hi>l. per an.</hi> you were to have paid for Taxes upon the 100 <hi>l. per an.</hi> is but 1 <hi>l. per cent.</hi> upon the 2000 <hi>l.</hi> which makes the Annuity but 7 <hi>l.</hi> 10 <hi>s. per cent. per annum</hi> for 25 Years, inſtead of 8 <hi>l.</hi> 6 <hi>s.</hi> 8 <hi>d. per annum</hi> perpetual Intereſt; or if you add 1 <hi>l. per cent.</hi> Taxes to 3 <hi>l. per cent.</hi> Intereſt, the Taxes and In<g ref="char:EOLhyphen"/>tereſt come but to 4 <hi>l. per cent. per annum.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>You have convinc'd me of the Reaſonableneſs of it; but what muſt I pay for the Bills of Credit that I have for my own Uſe?</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>You muſt pay 10 <hi>s. per cent. per annum</hi> to the Commiſſioners and Directors for iſſuing out and renewing your Bills of Credit, <hi>&amp;c. (as in Propoſal</hi> 22.)</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>And is that all I muſt pay?</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Yes.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>That cannot be; for ſuppoſe I take up Bills of Credit for 2000 <hi>l.</hi> on the Security of my Eſtate of 100 <hi>l. per annum,</hi> ſhall I pay no more than 10 <hi>l. per annum</hi> for the 2000 <hi>l.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>No, not a Farthing more.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>That is very ſtrange, for I am ſure I pay now 120 <hi>l. per annum</hi> Intereſt for 2000 <hi>l.</hi> and was forc'd to make over 200 <hi>l. per annum</hi> Free<g ref="char:EOLhyphen"/>hold Land as good as any in <hi>England,</hi> for a Security.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>I believe what you ſay, but I know no reaſon for it, and I will bring the Buſineſs cloſe to the Touch-ſtone: Their Majeſties having oc<g ref="char:EOLhyphen"/>caſion for Money, the Gentlemen of the Bank purchaſe of the Govern<g ref="char:EOLhyphen"/>ment 100000 <hi>l. per annum</hi> for twelve hundred thouſand Pounds: this
+<pb n="10" facs="tcp:56392:10"/>done, they deſire leave of the Parliament to iſſue out Bank-Bills for twelve hundred thouſand Pounds upon the Security of their ſaid Purchaſe; the Parliament give them leave, upon Condition that the 100000 <hi>l. per annum,</hi> for which they are to pay 1200000 <hi>l.</hi> be a Security; whereupon the Gen<g ref="char:EOLhyphen"/>tlemen of the Bank conſent that the Fund of 100000 <hi>l. per annum</hi> ſhould be a Security for 1200000 <hi>l.</hi> But ſay the Parliament, if you take up more than 1200000 <hi>l.</hi> you ſhall be obliged in your private Capaci<g ref="char:EOLhyphen"/>ties. It's agreed, and the 100000 <hi>l. per annum</hi> ſettled. Well, and I come in the Name of the Freeholders of <hi>England,</hi> and deſire, that (ſince they have been pleaſed to grant the Bank of <hi>England</hi> leave to iſſue out Bank-Bills, on the Security of their Eſtate of 100000 <hi>l. per annum,</hi> to the Value of 1200000 <hi>l.</hi> the Purchaſe-Money) that they would be pleaſed to grant the Freeholders the like Liberty, to iſſue out Bills of Credit up<g ref="char:EOLhyphen"/>on the Security of their Freeholds, to the value of 20 Years Purchaſe, being no more than what their Eſtates, <hi>bona Fide,</hi> coſt them.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>Why this indeed ſeems to be a moſt reaſonable Requeſt.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>You will ſay ſo by and by; for to induce the Parliament to grant the Freeholders the like Favour they have ſhewed the monied Men, I pro<g ref="char:EOLhyphen"/>poſe further to lend their Majeſties the Bills of Credit, ſecured by the Freehold-Land of the Kingdom, at 3 <hi>l. per cent. per annum</hi> Intereſt; or elſe for 6 <hi>l.</hi> 10 <hi>s. per cent. per an.</hi> for an Annuity for 25 Years, inſtead of 8 <hi>l.</hi> 6 <hi>s.</hi> 8 <hi>d.</hi> perpetual Intereſt.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>Here is very great Odds between your Offer and what the Nation pays.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>There is ſo: But ſuppoſe now the Parliament ſhould grant this the Freeholders Requeſt, or rather my Requeſt for the Freeholders, and pro<g ref="char:EOLhyphen"/>vide that their Eſtates ſhould be ſettled as by me propoſed; what Reaſon is there that the Freeholder ſhould pay more for Bills of Credit iſſued out upon his Eſtate, than the Gentlemen of the Bank give for their Bank-Bills?</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>There is no Reaſon the Freeholder ſhould give more; but you pro<g ref="char:EOLhyphen"/>poſe they ſhould not give ſo much; for do not the Gentlemen of the Bank give 2 <hi>d. per cent. per diem</hi> for their Bank-Bills, which is above 3 <hi>l. per cent. per annum?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Yes, they do ſo; but that is ſpontaneous, and their own voluntary Act, in order to get all the Money into their Hands: but what I ſpeak of is, what they are enjoined to do by the Government, for the Parlia<g ref="char:EOLhyphen"/>ment hath not obliged them to give a Penny Conſideration for running Caſh or Bank-Bills, call it which you pleaſe, but have only provided that thoſe who take their Bills to the value of their Purchaſe-Money, ſhould have the Fund by them purchaſed for their Security.</p>
+            </sp>
+            <pb n="11" facs="tcp:56392:10"/>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>I am convinc'd by what you ſay: But ſuppoſe I take up 2000 <hi>l.</hi> Bills of Credit upon my Eſtate, pray how muſt I pay it again, if I have diſpoſed or made uſe of my Bills?</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>I pray how will you pay your 2000 <hi>l.</hi> you now owe, and for which you juſt now told me that you pay 120 <hi>l. per annum</hi> for Intereſt, if you queſtion how you ſhall pay it, when you pay but 10 <hi>l. per annum?</hi> Will you not ſave 110 <hi>l. per annum</hi> out of the very Intereſt you now pay towards the Diſcharge of the Principal?</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>You have indeed fully anſwered me; but may I pay any part of my Money in as I can raiſe it?</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Yes, you may: This Scheme is purely deſign'd for the eaſe of the Subject; you ſhall be welcome, pay what you can, and when you can: and if you pay 500 <hi>l.</hi> your Eſtate will then ſtand engaged for 1500 <hi>l.</hi> for which you muſt pay 7 <hi>l.</hi> 10 <hi>s. per annum</hi> to the Commiſſioners.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>Why there I was miſtaken, for I thought I was to have paid the 10 <hi>l. per annum</hi> till the whole 2000 <hi>l.</hi> was paid off.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>No; you are to pay no more 10 <hi>s.</hi> than there are hundred Pounds owing by you upon your Eſtate.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>I muſt confeſs this is a moſt extraordinary Propoſal as ever I heard of; and as you have well obſerv'd in your Book, <hi>No Man can be a Loſer by theſe Bills of Credit, becauſe there is a Real Eſtate to be ſettled for the Security of them, before any Bill can be iſſued out, and a Parliamentary Fund ſettled for the Paiment of them before any are advanced to their Majeſties.</hi> But in Propo<g ref="char:EOLhyphen"/>ſal 23, you have another Table of Annuities, pray oblige me in ſhewing me the Uſe of that Table.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Sir, I will willingly do it. As the Table of Annuities, in Propoſal 18, is to ſhew how much <hi>per cent. per annum</hi> is to be paid out of any Par<g ref="char:EOLhyphen"/>liamentary Fund for Bills of Credit advanced to their Majeſties, ſo the Table in Propoſal 23 is to ſhew how much the Freeholder is to pay for an Annuity for any Term of Years, in diſcharge of what Bills of Credit he ſhall take up on the Security of his Eſtate for his own proper uſe.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>I underſtand you: Suppoſe then I ſhould take up 100 <hi>l.</hi> on my E<g ref="char:EOLhyphen"/>ſtate, what Annuity muſt I pay for 20 Years?</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>You muſt pay 5 <hi>l.</hi> 10 <hi>s. per cent. per annum</hi> for 20 Years, and that will diſcharge both Principal and Intereſt: for 5 <hi>l. per annum</hi> (part of the ſaid Annuity) will pay off the 100 <hi>l.</hi> Principal; and the 10 <hi>s. per an<g ref="char:EOLhyphen"/>num</hi> pays the Commiſſioners and Directors for their Charge and Trou<g ref="char:EOLhyphen"/>ble.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>Why, this is ſtupendous, for at this rate I ſhall have 100 <hi>l.</hi> down, for to pay 110 <hi>l.</hi> in 20 Years time, in 20 annual Paiments.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Yes, you will ſo, or 100 <hi>l.</hi> to pay 105 <hi>l.</hi> and have 10 Years to pay
+<pb n="12" facs="tcp:56392:11"/>it, in 10 annual Paiments of 10 <hi>l.</hi> 10 <hi>s. per annum</hi> each, as you may ſee by the Table.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>I profeſs, Sir, you perfectly amaze me; and yet your Propoſals, as you have now explained them to me, and the Inſtances and Examples you have brought, are as plain and evident as any thing under the Sun: all the Freeholders of <hi>England</hi> will be extreamly obliged to you if this Act paſſes. But, Sir, you have two Tables in <hi>Pag.</hi> 32, 33. which I ſuppoſe are calculated by this Table of Annuities: pray, before we go any fur<g ref="char:EOLhyphen"/>ther, explain theſe Tables to me.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>With all my Heart: To begin therefore with the firſt Table.</p>
+               <p>You were propoſing to me to ſettle 100 <hi>l. per annum</hi> in the County of <hi>Oxon,</hi> and to take up 2000 <hi>l.</hi> Bills of Credit upon the Security of it: When therefore you have your 2000 <hi>l.</hi> Bills, you know beſt how much <hi>per annum</hi> you can ſpare out of your Eſtate to diſcharge and pay off the Principal: now for the longer time you ſettle your Eſtate, the leſs An<g ref="char:EOLhyphen"/>nuity are you to pay; and on the other hand, the greater the Annuity is which you pay, the ſooner will your Eſtate be clear.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>That every one knows: But ſuppoſe I am willing to pay 50 <hi>l. per annum</hi> for my 2000 <hi>l.</hi> Bills of Credit; for how long time muſt I ſettle my Eſtate to pay off the 2000 <hi>l.</hi> Principal and Intereſt?</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>You muſt look in the top of the Table, and in the 4th Column you will find this Title <hi>Intereſt or Annuity,</hi> under that Title you will find 50, juſt againſt it in the 3d Column you will find 50 Years: So that upon ſet<g ref="char:EOLhyphen"/>tling 100 <hi>l. per annum,</hi> as in the firſt Column, you ſhall have 2000 <hi>l.</hi> Bills, as in the 2d Column, to pay an Annuity for 50 Years, as in the 3d Co<g ref="char:EOLhyphen"/>lumn, of 50 <hi>l. per annum,</hi> as in the fourth Column: With 40 <hi>l. per annum,</hi> part of the ſaid Annuity, the Commiſſioners are to diſcharge part of the Principal, which will pay all the 2000 <hi>l.</hi> off in 50 Years, as in the fifth Column; and the other 10 <hi>l. per annum</hi> the Commiſſioners and Directors are to have, as in the ſixth Column, as you may ſee in Propoſal 23.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>This is indeed very plain, but here ariſeth a Difficulty: Suppoſe I ſettle my Eſtate of 100 <hi>l. per annum</hi> for 10 Years, I muſt pay for 2000 <hi>l.</hi> Bills of Credit 210 <hi>l. per annum:</hi> But when I have got the Bills of Cre<g ref="char:EOLhyphen"/>dit, ſuppoſe I will not pay the Annuity, the Commiſſioners can only en<g ref="char:EOLhyphen"/>ter upon my Eſtate; and if they ſhall receive all the Profits in 10 Years time, they will amount to no more than 1000 <hi>l.</hi> and how then muſt the 2000 <hi>l.</hi> Bills be paid with 1000 <hi>l.?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>I perceive, Sir, you very much miſtake; you muſt not expect that the Commiſſioner's will accept of an Annuity of 100 <hi>l. per annum</hi> for 10 Years for the Security of 2000 <hi>l.</hi> no, but you engage the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee of your E<g ref="char:EOLhyphen"/>ſtate for to pay an Annuity of 210 <hi>l. per annum</hi> for 10 Years.</p>
+            </sp>
+            <pb n="13" facs="tcp:56392:11"/>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>Well, but ſuppoſe I do not pay my Annuity, what will the Com<g ref="char:EOLhyphen"/>miſſioners do then?</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>The Commiſſioners will in ſuch caſe have Power to ſell your Eſtate at a publick Sale, to thoſe who will give moſt for it; and having paid themſelves ſo much as you are in Arrears, they muſt pay you the overplus.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>But would not that be very ſevere?</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>No, not at all; for that Perſon who for 2000 <hi>l.</hi> paid him down, is to pay no more than 2100 <hi>l.</hi> in ten Years time, at ten ſeveral Paiments, (for you are to pay no more) will deſerve no Favour, if he ſhall give the Commiſſioners any unneceſſary Trouble: For ſuppoſe you take up 2000 <hi>l.</hi> now upon the Mortgage of your Eſtate, you muſt pay 2120 <hi>l.</hi> in 12 Months; which is more by 20 <hi>l.</hi> than you are to pay (according to my Propoſals) in ten Years; and yet upon your non-paiment of Principal and Intereſt, the Mortgagee may eject you or forecloſe you in <hi>Chancery.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>I confeſs what you ſay is true and highly reaſonable; but I obſerve in the third Column the word <hi>Perpetual,</hi> what mean you by that?</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>In Propoſal 22, Page 28, it is provided, that any Perſon (whoſe E<g ref="char:EOLhyphen"/>ſtate ſhall have been ſettled ſix Months) may have what Bills of Credit they pleaſe for their own proper Uſe, paying the Commiſſioners and Di<g ref="char:EOLhyphen"/>rectors 10 <hi>s. per cent. per annum</hi> for their Charges in iſſuing out and re<g ref="char:EOLhyphen"/>newing ſuch Bills. Now theſe Bills of Credit being taken up for an un<g ref="char:EOLhyphen"/>certain Time, I put the word <hi>Perpetual</hi> againſt it, intimating that they muſt conſtantly pay the ſaid 10 <hi>s. per cent. per annum,</hi> until they ſhall diſ<g ref="char:EOLhyphen"/>charge the Bills of Credit by them taken up as aforeſaid; whereas the 10 <hi>s. per cent.</hi> allowed the Commiſſioners upon Bills of Credit iſſued out to a Freeholder for his own proper Uſe, upon his paiment of an Annuity, is included in the ſeveral Annuities, as in Propoſal 23.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>Well, but what ſignifies the word <hi>Perpetual</hi> in the third and fourth Tables in Page 34?</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>That their Majeſties are to pay 3 <hi>l. per cent. per annum</hi> perpetual In<g ref="char:EOLhyphen"/>tereſt till the advanced Money be paid, as they do 8 <hi>l.</hi> 6 <hi>s.</hi> 8 <hi>d. per cent. per annum</hi> to the Bank of <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>But I forgot to ask you one queſtion, What am I to pay for the Bills of Credit I advance to their Majeſties?</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Not a Farthing, for in Propoſal 16 it is ſaid, their Majeſties may allow 1000 <hi>l. per annum</hi> to the Commiſſioners and Directors, for the Charge of each Million, until the Bills of Credit iſſued out for ſuch Mil<g ref="char:EOLhyphen"/>lion ſhall be paid and cancelled; ſo that their Majeſties, not the Free<g ref="char:EOLhyphen"/>holders of <hi>England,</hi> are to pay the Charge of all the Bills of Credit ad<g ref="char:EOLhyphen"/>vanced to their Majeſties.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>I do now perfectly underſtand the 1ſt Table, pray explain the 2d Table to me.</p>
+            </sp>
+            <pb n="14" facs="tcp:56392:12"/>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>I ſhall readily do it, <hi>that Table being of moſt excellent uſe:</hi> Sup<g ref="char:EOLhyphen"/>poſe then you have a mind to know what Bills of Credit you may have upon any Eſtate, admit it be 750 <hi>l. per annum,</hi> look in the firſt Column under the Title of <hi>Eſtates to be ſettled,</hi> for 750, and againſt it in the ſe<g ref="char:EOLhyphen"/>cond Column under the Title of <hi>Bills of Credit</hi> you will find 15000 <hi>l.</hi> and ſo much value in Bills of Credit may you have upon ſettling an Eſtate of 750 <hi>l. per annum;</hi> or ſuppoſe I have a mind to pay an Annuity of 450 <hi>l. per annum</hi> for 25 Years, and I would willingly know what value in Bills of Credit I may have upon the Payment of that Annuity, and what Year<g ref="char:EOLhyphen"/>ly Eſtate I muſt ſettle, I look in the ſeventh Column under the Title of 25 <hi>Years</hi> for 450, I then look in a ſtreight Line towards my Left-hand, and in the ſecond Column under the Title of <hi>Bills of Credit,</hi> I find 10000 <hi>l.</hi> and againſt it in the firſt Column I find 500; ſo that I may have 10000 <hi>l.</hi> in Bills of Credit upon the Security of 500 <hi>l. per annum,</hi> and muſt pay an Annuity of 450 <hi>l. per annum</hi> for 25 Years in diſcharge of Principal and Intereſt, which is juſt 4 <hi>l.</hi> 10 <hi>s. per cent. per annum</hi> for 25 Years, as you may perceive by the Table of Annuities, in Propoſal 23.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>But, Sir, I have an Acquaintance who hath mortgaged his Eſtate of 1000 <hi>l. per annum</hi> for ten thouſand Pounds, for this he now pays 600 <hi>l. per annum</hi> for the bare Intereſt; he hath three or four fine Children at Men and Womens Eſtate, and, poor Gentleman, he hath not a Farthing to give them: for Taxes, Repairs and one Charge or other comes ſo faſt upon him, that ſometimes (between you and me) to my knowledg, his Family do almoſt want Bread. Now this unfortunate Gentleman hath often lamented and deplored his Condition to me with Tears in his Eyes, telling me, that he can never look upon his Children, but it pierces his Heart to ſee ſuch hopeful Branches in a fair way to be ruined, becauſe he hath not a Farthing to give them wherewith to ſettle or diſpoſe of them in the World.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>
+                  <hi>This indeed is the ſad Condition of very many thouſand Families at this preſent,</hi> and my propoſed Method would effectually free them from all theſe their Preſſures.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>But could you find any way by your Method to clear his Eſtate in time, and to give his Children ſomething to ſettle or diſpoſe of them in the World? For whereas he now pays 600 <hi>l. per annum</hi> for bare Intereſt, I would, if it could be ſo contriv'd, turn this <hi>perpetual Intereſt</hi> that he now pays into an Annuity of 600 <hi>l. per annum</hi> by your Method, and then in time his Eſtate will be clear again. Now pray tell me what value in Bills of Credit may he have upon his Payment of 600 <hi>l. per annum</hi> for 40 or 50 Years?</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>If you look in the fifth Column under the Title of 40 <hi>Years,</hi> you
+<pb n="15" facs="tcp:56392:12"/>will find 600, then look in a ſtreight Line towards your Left-hand, and in the ſecond Column under the Title of <hi>Bills of Credit,</hi> you will find 20000 <hi>l.</hi> and even with that in the firſt Column you will find 1000 <hi>l.</hi> ſo that this Gentleman may upon his 1000 <hi>l. per annum,</hi> have 20000 <hi>l.</hi> Bills of Credit upon the Payment of 600 <hi>l. per annum</hi> for 40 Years, when his Eſtate will be clear; with which Bills he may pay off his 10000 <hi>l.</hi> Mort<g ref="char:EOLhyphen"/>gage, and give 10000 <hi>l.</hi> among his Children.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>
+                  <hi>If this Act ſhould paſs, it would make this poor Gentleman weep for Joy,</hi> who hath ſo often wept when he hath contemplated on the moſt deplo<g ref="char:EOLhyphen"/>rable Condition of himſelf and Family. But how ſhall I know what he might have upon ſettling 600 <hi>l. per annum</hi> for 50 Years? for I cannot find 600 in the fourth Column of 50 Years.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>I know you cannot, but you may find 500.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>Yes.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>And then you may find 100 in the ſame Column.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>Yes, I do ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Why then, I think, 500 and 100 make 600; for the 500 <hi>l. per annum</hi> Annuity for 50 Years, he may have 20000 <hi>l.</hi> for the 100 <hi>l. per annum</hi> Annuity for 50 Years, he may have 4000 <hi>l.</hi> more, in all 24000 <hi>l.</hi> for an Annuity of 600 <hi>l. per annum</hi> for 50 Years: but this he cannot have upon the Security of 1000 <hi>l. per annum;</hi> for there muſt not be above 20 Years value in Bills iſſued out upon any Eſtate.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>Nay, Sir, as to that, 40 Years Settlement is ſufficient, and he will have Money enough; but I only propoſed it for my perfect underſtand<g ref="char:EOLhyphen"/>ing of the Table. But, Sir, I deſire to be informed in one thing fur<g ref="char:EOLhyphen"/>ther; Suppoſe my Friend ſhould die in five or ten Years time after he hath thus ſettled his Eſtate, and admit his eldeſt Son, who is indeed a very hopeful Gentleman, ſhould marry ſome Lady with a noble Fortune; he would probably be willing to pay off this Incumbrance, and clear his Eſtate, which he cannot do becauſe the Eſtate is ſettled for ſo long time as 40 Years.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>This is eaſily anſwered, only you muſt take this Note or Obſerva<g ref="char:EOLhyphen"/>tion along with you; That <hi>as the Commiſſioners are Truſtees for the Safety of thoſe who take the Bills of Credit, ſo they are Truſtees for the Eaſe and Be<g ref="char:EOLhyphen"/>nefit of the Freeholders:</hi> and it is not the deſign of my Propoſals, That any Eſtate ſhall be any more abſolutely tied up for 50 Years, tho ſettled for ſo long time, than it is to be tied up for ever upon 10 <hi>s. per cent. per annum</hi> perpetual Intereſt; and therefore I ſhall preſently ſolve your Queſtion. Suppoſe this Gentleman lives 10 Years after this Settlement, and hath paid 10 Years Annuity of 600 <hi>l. per annum;</hi> he dying, his Son, ſay you, is deſirous to clear the Eſtate with his Lady's Portion; why the
+<pb n="16" facs="tcp:56392:13"/>Gentleman muſt ſee how much is owing upon this his Eſtate; his Father having paid 10 Years Annuity, being one fourth part of the Term of 40 Years, there will be conſequently one fourth part of his 20000 <hi>l.</hi> paid, which is 5000 <hi>l.</hi> ſo that he will owe 15000 <hi>l.</hi> upon his Eſtate.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>Sure you miſtake; for 10 Years Annuity of 600 <hi>l. per annum,</hi> is 6000 <hi>l.</hi> and you reckon but 5000 <hi>l.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>True; but if you look in the third Column (againſt 20000 <hi>l.</hi> in the ſecond Column) you will find 100 <hi>l.</hi> and ſo much is to be allowed every Year to the Commiſſioners and Directors out of the Annuity of 600 <hi>l. per annum</hi> for their Charge and Trouble; ſo that the Father having paid 5000 <hi>l.</hi> Principal in 10 Years, the Son upon Payment of 15000 <hi>l.</hi> ſhall have the Eſtate clear, notwithſtanding his Father's Settlement, and the Commiſſioners upon Receipt of the ſame muſt cancel Bills of Credit for 15000 <hi>l.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>But ſuppoſe the Son ſhould not have above 5000 <hi>l.</hi> with his Lady, and this he is willing to pay the Commiſſioners, that his Eſtate may be clear'd the ſooner; pray what muſt he do in this caſe? for the Father having paid off 5000 <hi>l.</hi> and the Son 5000 <hi>l.</hi> more, there will remain but 10000 <hi>l.</hi> Incumbrance upon his Eſtate.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Look in the ſecond Column under the Title of <hi>Bills of Credit</hi> for 10000 <hi>l.</hi> and in the firſt Column againſt it you will find 500; look on for<g ref="char:EOLhyphen"/>ward to the eighth Column under the Title of 20 <hi>Years,</hi> and there you will find 550: ſo this Gentleman, who, by virtue of his Father's Settle<g ref="char:EOLhyphen"/>ment, was to pay 600 <hi>l. per annum</hi> for 30 Years on the Security of the whole Eſtate of 1000 <hi>l. per annum,</hi> having paid 5000 <hi>l.</hi> (his Lady's Por<g ref="char:EOLhyphen"/>tion) to the Commiſſioners, is now to pay only 550 <hi>l. per annum</hi> for 20 Years upon the Security of 500 <hi>l. per annum</hi> only.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>May any Man then who hath ſettled his Eſtate for the Payment of an Annuity for any Term of Years, alter the Annuity and Term of Years?</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Yes, with the Commiſſioners Conſent, but not otherwiſe; for if you apprehend me aright, it is not deſign'd, as you may perceive, by what hath been already ſaid, that the Gentleman who ſettled his Eſtate for the Payment of 600 <hi>l. per annum</hi> for 40 Years, upon his Receipt of 20000 <hi>l.</hi> Bills of Credit, ſhould be obliged to continue his Eſtate upon that Settlement all that time, but only that the Bills of Credit ſhould be paid off ſome time or other, in ſuch manner as beſt ſuted the Gentle<g ref="char:EOLhyphen"/>man's Conveniency, and that the Eſtate ſhould ſecure the Payment of them.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>Why, ſuppoſe I ſettle my Eſtate to pay 50 <hi>l. per annum</hi> for 50 Years, as in the fourth Column, may I alter my Annuity to 110 <hi>l. per annum</hi> for 20 Years, as in the eighth Column?</p>
+            </sp>
+            <pb n="17" facs="tcp:56392:13"/>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Yes: or if you are to pay 110 <hi>l. per annum</hi> for 20 Years, as in the eighth Column, you may alter it with the Commiſſioners Conſent for an Annuity of 90 <hi>l. per annum</hi> for 25 Years, as in the ſeventh Column; or for an Annuity of 70 <hi>l. per annum</hi> for 33 Years 4 Months, as in the ſixth Column, according to your various Circumſtances.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>Sir, I thank you for this Table, and the Explanation, for I think I throughly underſtand it.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>I am glad you do, but only I ſhall leave one Remark more with you, That if you compare the third and ninth Columns of this Table to<g ref="char:EOLhyphen"/>gether, you will find <hi>a Gentleman will pay leſs Intereſt by</hi> 40 l. per annum <hi>for an hundred thouſand Pounds, than he muſt now pay for</hi> 9000 l. <hi>at</hi> 6 l. <hi>per cent. per annum;</hi> and you may by comparing the eighth and ninth Co<g ref="char:EOLhyphen"/>lumns together, perceive that <hi>a Gentleman may pay off Principal and In<g ref="char:EOLhyphen"/>tereſt, upon the Payment of a leſs Annual Payment or Annuity for</hi> 20 <hi>Years, than now he muſt pay for ſingle Intereſt only.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>But I have heard ſome Men of Senſe ſay we ſhall have too many of theſe Bills of Credit.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>I think I have ſufficiently anſwered this in my Treatiſe in <hi>pag.</hi> 45. to which I refer you; but I doubt your Men of Senſe take their Meaſures from our preſent Trade, and not from what Trade we are capable of managing: Can theſe Men of Senſe tell how many Millions of Money it would require to employ all the idle Hands in the Nation? Can they tell what Stock it will take up to eſtabliſh ſeveral Manufactures in <hi>England,</hi> that we now import from Foreign Parts? Can they tell how many Millions may be employed in our <hi>Greenland, Newfoundland, Iriſh</hi> and our home Fiſheries? Can they tell how many Millions are owing on the Freehold Eſtates of the Nation, more than there are Millions of Money in the Kingdom?</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>No, I believe they never ſtudied that Point.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>I believe ſo too; and how then can they tell how many Millions are ſufficient for the Trade of the Kingdom, ſince there are many Trades that we have little or no ſhare in, and other Trades we manage by halves for want of Stock ſufficient? And therefore I do not wonder to find our ſelves outdone by our Neighbours, who have plenty of Money, and therewith employ all their Poor, while ours are begging up and down in every Street.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>If I am not miſtaken, the Parliament have the Buſineſs of the Poor before them, and no doubt but they will do all that can poſſibly be done for the Cure of this great Miſchief.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>They will ſo without Queſtion; but tho it is difficult to ſay what a Parliament of <hi>England</hi> cannot do, yet I think it is no wiſe derogatory
+<pb n="18" facs="tcp:56392:14"/>to the Honour of that Auguſt Aſſembly, to ſay they cannot do Impoſſi<g ref="char:EOLhyphen"/>bilities; and Money being the <hi>Sine qua non,</hi> without which the Poor can<g ref="char:EOLhyphen"/>not be ſet to Work, the high Intereſt of Money renders it next to im<g ref="char:EOLhyphen"/>poſſible to effect it.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>You ſeem then to aſcribe the great Numbers of our Poor to the high Intereſt of Money.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>I do ſo, and <hi>it is a moſt certain Sign, that a Kingdom is poor, where Intereſt of Money runs high.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>Why, Sir, that is no ſtrange thing, for it is the Scarcity of Mo<g ref="char:EOLhyphen"/>ney that cauſes high Intereſt.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>And I ſay, <hi>it is high Intereſt that cauſes a ſcarcity of Money,</hi> in re<g ref="char:EOLhyphen"/>gard it is deſtructive to our Trade, which muſt bring the Money into the Nation.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>You have indeed convinc'd me, that high Intereſt is very pernici<g ref="char:EOLhyphen"/>ous to the Kingdom.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Pernicious, that is too ſoft a Word, I ſay, it is ruinous to the King<g ref="char:EOLhyphen"/>dom: And this puts me in mind of a melancholy Sight I ſaw ſome Months ſince at <hi>Southampton,</hi> a neat healthy Place, and curiouſly ſituated for Trade, where I took notice of ſeveral noble and ſumptuous Buildings, with as ſpacious Valuts as any in <hi>London,</hi> whoſe Roofs were fallen in upon the upper Floors, and ſome other Houſes lying flat on the Ground; I en<g ref="char:EOLhyphen"/>quired who were the Owners, and underſtood they were Men of good yearly Eſtates, but they did not think it worth while to build their Houſes, becauſe it would not anſwer the Charge to take up Money at Intereſt to build or keep them in repair: Whereas if theſe Gentle<g ref="char:EOLhyphen"/>men could have had Money on the Security of their Eſtates, upon eaſy Terms, and without thoſe preſiminary Charges of examining Titles, Mortgage-Deeds, Procuration, Continuation, <hi>&amp;c.</hi> thoſe Houſes in proba<g ref="char:EOLhyphen"/>bility would never have been ſuffered to fall to decay.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>You are much in the right; and to be ſure if theſe Gentlemen could have had 500 <hi>l.</hi> on their Eſtates for 50 <hi>s. per annum,</hi> they would never have ſuffer'd thoſe fine Houſes to tumble; for tho a Man in Pru<g ref="char:EOLhyphen"/>dence will not lay out 500 <hi>l.</hi> for which he muſt pay 30 <hi>l. per annum</hi> Inte<g ref="char:EOLhyphen"/>reſt, for to build or repair a Houſe that will not yield him probably ſo much <hi>per annum</hi> as his Intereſt comes to; yet if a Man could have 500 <hi>l.</hi> for 10 <hi>s. per cent. per annum,</hi> he would beſtow it upon ſuch a Houſe tho he were ſure it would not bring him in more than 20 <hi>l. per annum.</hi> But, Sir, I have heard it objected, that theſe Bills of Credit may be counterfeited; now, what Method will you take to prevent Counterfeits?</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>What Danger is there that theſe Bills of Credit will be counter<g ref="char:EOLhyphen"/>feited any more than Bank-Bills? and yet I never heard that Objection
+<pb n="19" facs="tcp:56392:14"/>made uſe of againſt the Bills iſſued out by the Bank; but <hi>thoſe who have a mind to counterfeit, I ſuppoſe, will rather chooſe a Pillory, than a Hurdle and a Halter, (vide</hi> Propoſal 29); but I have a farther Method of ſecuring the Bills againſt Counterfeits more than the Bank have, if once it were come to that: Beſides, I have alſo propoſed, that all Bills of Credit ſhall be current in paiment by Indorſement, <hi>toties quoties;</hi> ſo that we ſhall be eaſily able to trace out a Counterfeit, <hi>as in Propoſal</hi> 9.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>But if you propoſe that no Bill ſhall be paid but by Indorſement, <hi>toties quoties,</hi> a Bill will be quickly fill'd up, what muſt be done in that Caſe?</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>You may renew it again without Fee or Reward, <hi>as in Propoſal</hi> 24.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>But ſuppoſe I have a Bill of Credit for 100 <hi>l.</hi> what muſt I do if I want to pay away 5 <hi>l?</hi> for I cannot expect any Man will pay me 95 <hi>l.</hi> in Money out of an hundred pound Bill; beſides, if he would, it would be very troubleſome to receive it.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>But he may give you Bills of Credit back for 95 <hi>l.</hi> or elſe you may ſend or carry your Bill of 100 <hi>l.</hi> to the Commiſſioners, and may have twenty 5 <hi>l.</hi> Bills for one Bill of 100 <hi>l.</hi> if you deſire ſo many, with<g ref="char:EOLhyphen"/>out paying a Farthing, <hi>as in Propoſal</hi> 25.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>It is a thouſand Pities that ſuch a Propoſal as this is, which will be the making all the Freeholders in the Kingdom, ſhould meet with any Oppoſition; and yet I find ſeveral are againſt your Propoſals.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>That may probably be, if they have not read them, or do not underſtand them: But ſome monied Men, who have no Land to ſettle, they <hi>will not underſtand:</hi> He that hath been uſed to 6 <hi>l. per cent. per annum</hi> Intereſt, or hath lent 10 or 20000 <hi>l.</hi> at eight, ten, or 12 <hi>l. per cent. per annum</hi> to the Government, he <hi>will not underſtand</hi> the meaning of a Gentleman's having a Bill of Credit upon his Eſtate for 10 <hi>s. per cent. per annum,</hi> or their Majeſties being ſupplied for 3 <hi>l. per cent. per annum:</hi> or he that hath 20000 <hi>l.</hi> lying by him ready to catch up a good Eſtate of Freehold-Land for 16 or 18 Years Purchaſe, he <hi>will not under<g ref="char:EOLhyphen"/>ſtand</hi> my Propoſals; which if they ſucceed, he muſt pay 40 or 50 Years Purchaſe for the ſame Eſtate.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>It is true, there are too many ſuch in the World, I wiſh they were in the Condition that many poor Freeholders are in, they would not then oppoſe it as they do.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Thoſe who oppoſe me with Reaſon, I ſhall readily ſubmit to them; and therefore I pray let me know what you have heard objected againſt my Propoſals, that I may examin whether their Objections have any weight in them.</p>
+            </sp>
+            <pb n="20" facs="tcp:56392:15"/>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>Why, one main Objection is againſt your ninth Propoſal, where you ſay, that theſe Bills of Credit ſhall be current in paiment by Indorſe<g ref="char:EOLhyphen"/>ment, <hi>toties quoties:</hi> Now I doubt that will never go down, to oblige the People to take <hi>Paper-Money.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>I think I have fully anſwered that in my Treatiſe, in <hi>pag.</hi> 43, 44, 45. to which, for brevity, I refer you: But pardon me if I likewiſe tell you, that I took you to be a Perſon of more Senſe than to call it <hi>Pa<g ref="char:EOLhyphen"/>per-Money;</hi> for what I propoſe is to take the Freehold Land of <hi>England</hi> for Money, or at leaſt for a Security; and the Paper is only the <hi>Medium</hi> to convey ſuch Land or Security till the Bills of Credit ſhall be ſatisfied, in regard Land is fix'd, and cannot be taken in a Man's Hand, in order to be delivered to another, but muſt be conveyed by ſome Writing, to ſignify that the Property is transferr'd or alienated; and there<g ref="char:EOLhyphen"/>fore we uſe Writings in Parchment or Paper, to ſignify ſuch Con<g ref="char:EOLhyphen"/>veyance or Transferrence of the Property of the <hi>Land</hi> from one to another. Now ſuppoſe you ſhould lend any Perſon 10000 <hi>l.</hi> upon the Se<g ref="char:EOLhyphen"/>curity of an Eſtate of 1000 <hi>l. per annum,</hi> the Perſon to whom you lend your Money, conveys over his Eſtate to you, you giving him a De<g ref="char:EOLhyphen"/>fezance to reconvey to him his ſaid Eſtate, upon his paying you Prin<g ref="char:EOLhyphen"/>cipal and Intereſt, and delivers you at the ſame time all the Writings of the Eſtate; which probably he brings along with him under his Arm, or in ſome little Bag. Now could any Man forbear ſmiling at that Perſon who ſhould laugh and ridicule you, for giving a Cartload of Money for a handful of Papers, or a few Skins of Parchment?</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>By your favour, I think that Caſe and this is different.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>And by your favour, I think not at all.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>Sir, pardon me, you miſtake; as I take it there is a material dif<g ref="char:EOLhyphen"/>ference: for I have a Title to that individual Eſtate mentioned in thoſe Writings; and if the Perſon whoſe Eſtate it is, fails to pay me my Princi<g ref="char:EOLhyphen"/>pal and Intereſt, I can eject him, and enter upon the Eſtate.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>You may ſo, and be his <hi>Rent-gatherer;</hi> and he, by a Bill in <hi>Chan<g ref="char:EOLhyphen"/>cery,</hi> and upon paiment of Principal and Intereſt, will be reinſtated, and put into the poſſeſſion of his Eſtate.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>Yes, that is if he pays his Principal and Intereſt; but if he does not, the Court will decree the Eſtate to me.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>By your leave, the Court will not, till firſt they have given the Proprietor of ſuch Eſtate ſome reaſonable Time for the diſpoſal of it: But if he cannot get a Chapman who will give him more for his Eſtate than the Money you have upon it, the Court, will decree it to you, upon his non-paiment of Principal and Intereſt: So that if you have the Eſtate, you have it, as we ſay, upon Force; becauſe if you have not the Eſtate, you
+<pb n="21" facs="tcp:56392:15"/>will have nothing: and it is not becauſe the Mortgager may not, but be<g ref="char:EOLhyphen"/>cauſe he cannot fell it to any Perſon elſe.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>I think you are in the right.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>I am ſure I am, and I will now ſtate both Caſes by way of Pa<g ref="char:EOLhyphen"/>rallel.
+<table>
+                     <row>
+                        <cell>
+                           <hi>A</hi> mortgages his Eſtate to <hi>B</hi> for 10000 <hi>l.</hi> in Money.</cell>
+                        <cell>
+                           <hi>C</hi> ſettles his Eſtate upon the Com<g ref="char:EOLhyphen"/>miſſioners for the Security of 10000 <hi>l.</hi> Bills of Credit.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>A</hi> is to pay <hi>B</hi> for Intereſt, 600 <hi>l. per annum.</hi>
+                        </cell>
+                        <cell>
+                           <hi>C</hi> is to pay the Commiſſioners, in lieu of Principal and Intereſt, an Annuity of 550 <hi>l. per annum</hi> for 20 Years.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>A</hi> receives the Profits of his Eſtate from his Tenants.</cell>
+                        <cell>
+                           <hi>C</hi> receives the Profits of his Eſtate from his Tenants.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>B</hi> upon non-paiment of Principal and Intereſt, enters upon the E<g ref="char:EOLhyphen"/>ſtate of <hi>A.</hi>
+                        </cell>
+                        <cell>The Commiſſioners upon non-pai<g ref="char:EOLhyphen"/>ment of the Annuity, enter up<g ref="char:EOLhyphen"/>on the Eſtate of <hi>C.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>B,</hi> by Decree in <hi>Chancery,</hi> ſells the Eſtate of <hi>A,</hi> paying him the O<g ref="char:EOLhyphen"/>verplus.</cell>
+                        <cell>The Commiſſioners by virtue of the like Authority, ſell the Eſtate of <hi>C,</hi> and pay him the Overplus.</cell>
+                     </row>
+                     <row>
+                        <cell>The Writings of the Eſtate, entitle <hi>B</hi> to the Eſtate of <hi>A,</hi>
+                        </cell>
+                        <cell>The Settlement of the Eſtate enti<g ref="char:EOLhyphen"/>tles the Commiſſioners to the E<g ref="char:EOLhyphen"/>ſtate of <hi>C,</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Which is the Security of <hi>B,</hi> and of his and every Aſſignee, <hi>toties quo<g ref="char:EOLhyphen"/>ties.</hi>
+                        </cell>
+                        <cell>Which is the Security for all ſuch who take the Bills of Credit by Indorſement, <hi>toties quoties.</hi>
+                        </cell>
+                     </row>
+                  </table> And I may add ſomething further, ſuch Bills of Credit which are advan<g ref="char:EOLhyphen"/>ced to their Majeſties, will have a Parliamentary Security, beſides the Freehold Eſtates, as hath been ſaid.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>I muſt confeſs, I did not conſider this ſo much before; for <hi>the Eſtates being inveſted in the Commiſſioners, who are Truſtees for all thoſe who take the Bills of Credit, it is the ſame thing as if the Eſtate was made over to each in<g ref="char:EOLhyphen"/>dividual Perſon.</hi> I confeſs you have ſtated the Caſe right on both Sides; but I find generally, if People get a Whimſey in their Crowns, they run away with it right or wrong.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Sir, Cuſtom is very prevalent over Mens Minds; and it is not un<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>tly ſaid to be <hi>a ſecond Nature:</hi> And (as I have heard) an Act of Parlia<g ref="char:EOLhyphen"/>ment formerly made in <hi>Ireland,</hi> prohibiting the Iriſh to faſten their P<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ughs, <hi>&amp;c.</hi> to their Horſe Tails, had like to have bred no ſmall Di<g ref="char:EOLhyphen"/>ſturbance
+<pb n="22" facs="tcp:56392:16"/>among them; but I hope I have to do with Perſons that will not come prepoſſeſſed, for (as <hi>Des Cattes</hi> well obſerves) <hi>There is no greater hinderance to the attaining true Knowledg, than preconceived Notions, which People retain as Maxims not to be receded from, without ſo much as once ex<g ref="char:EOLhyphen"/>amining into the Reaſon of ſuch their Opinions;</hi> and from thence ariſeth the great Difficulty of reducing thoſe Perſons to Reaſon, whoſe main Argument is, <hi>I am certain it is ſo, becauſe it is ſo:</hi> but my Comfort is, I have to do with the Parliament of <hi>England,</hi> who are Maſters of Reaſon, and if they ſhall approve of my Propoſals, I value not what the un<g ref="char:EOLhyphen"/>thinking part of Mankind ſay of them.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>But I will aſſure you, I heard one of the Directors of the Bank ſay, that thoſe who are againſt the Bank, are againſt the Government.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>And probably he ſpake as he thought; but this I aſſert, That thoſe who are for the Government's paying Extortion, and making their Ma<g ref="char:EOLhyphen"/>jeſties pay 100000 <hi>l. per annum,</hi> for the ſame Sum which they may have for 36000 <hi>l. per annum,</hi> that ſhall be for loading the Freehold Lands of <hi>England</hi> with Taxes, and making the Subjects uneaſy under them, when they may be eaſed from, nay even enriched by the Taxes, do rather deſerve that Character: For my part, I act not as an Enemy to the Bank, nor to any Man living, but (as every true Engliſh Man ought to be) I am ſincerely zealous to promote the Welfare of their Majeſties, and of all the Subjects of <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>I believe what you ſay, but I find People more ſcared than hurt: for I cannot perceive how any Perſon can be a loſer who ſhall take any of theſe Bills of Credit; and therefore it is not unjuſt or unreaſonable for the Parliament to enact that the Subjects ſhall take them.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>I will give you only one Inſtance more, and then I will leave any Man to judg of the Juſtneſs and Reaſonableneſs of it. You gave me a melancholy Account juſt now of your Friend, who owes 10000 <hi>l.</hi> upon his Eſtate of 1000 <hi>l. per annum.</hi> Now notwithſtanding this poor Gentle<g ref="char:EOLhyphen"/>man's calamitous Circumſtances, Do not the Parliament in effect ſay to him every time they grant a Land-Tax of 4 <hi>s.</hi> in the Pound, Sir, <hi>you muſt pay</hi> 200 <hi>l.</hi> this Year to their Majeſties out of your Eſtate? Do not the Parliament in effect ſay to him again, when they grant a Poll-Tax, <hi>You muſt pay</hi> 21 <hi>s.</hi> a Quarter for your own Head, beſides 12 <hi>d.</hi> a Quarter for each of your Childrens, becauſe you are worth 600 <hi>l.</hi>? Do not the Parlia<g ref="char:EOLhyphen"/>ment further ſay, <hi>you muſt mount</hi> two Men upon able Horſes, and give them: Month's Pay in their Pockets to go out with the <hi>Militia?</hi> The poor Ger<g ref="char:EOLhyphen"/>tleman (if it were permitted him to help himſelf by ſpeaking) might ſay, Truly, Gentlemen, my Circumſtances are ſuch, that if you knew them, they would excite your Pity and Commiſeration; but if my Eſtate <hi>muſt</hi>
+                  <pb n="23" facs="tcp:56392:16"/>bear ſuch a Tax to be laid upon it, it ſeems equitable, and I hope you will think it juſt, That he that receives 600 <hi>l. per annum</hi> of me out of my Eſtate might pay his Proportion of the Taxes for what he receives. Now I ſay, ſhall it be look'd upon reaſonable and fit for the Supply of their Ma<g ref="char:EOLhyphen"/>jeſties, to <hi>oblige</hi> a Gentleman in ſo diſtreſſed and deplorable a Con<g ref="char:EOLhyphen"/>dition to pay ſo much out of that little he has, and ſhall it be thought unreaſonable for the Parliament to enact, that you <hi>muſt</hi> take a Bill of Credit for 5, 10, 20, 50, or 100 <hi>l.</hi> which another <hi>muſt</hi> take from you in Payment, and a third <hi>must</hi> take from him; and for the Security whereof, there is a Freehold Eſtate of as much or more than the value, ſettled for the making it good to you and to all who ſhall receive it, be<g ref="char:EOLhyphen"/>ſides a Fund ſettled by Parliament for the Payment of it? I dare appeal to any Man in the World if this be Senſe or no, and therefore I think I have fully anſwered and done with this Objection.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>Then upon the whole I find you do not propoſe to have Money as the Bank of <hi>England</hi> have.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>For my part I had rather be without Money than to have ſuch clipp'd Money as we now have; could we have Money of a due Weight and Standard, I ſhould like it well, but elſe I know not why we ſhould co<g ref="char:EOLhyphen"/>vet to have 50 Pounds worth of Silver for 100 <hi>l.</hi> but however, thoſe who are for a May-pole let them have it; and the Commiſſioners will alſo have Money for thoſe who have a mind to dirty their Fingers in tel<g ref="char:EOLhyphen"/>ling it; for ſuppoſe the Parliament ſettle a Fund for the Payment of an Annuity of 250000 <hi>l. per annum</hi> for 10 Years for two Millions of Money, being 12 <hi>l.</hi> 10 <hi>s. per cent. per annum,</hi> will there not be 5000 <hi>l. per</hi> Week coming in (ſuppoſing the Parliament ordered it to be paid in <hi>in ſpecie</hi>) to pay ſuch that have a mind to have Money? and if the Parliament pleaſe, <hi>the Freeholders of</hi> England <hi>without one farthing of Money, by the bare accruing Pro<g ref="char:EOLhyphen"/>fits of their Bills of Credit over and above their yearly Eſtates, may raiſe the moſt noble Bank in the whole World, far exceeding the Banks of</hi> Amſterdam, Venice <hi>and</hi> Genoua, <hi>put them all in one,</hi> as I am ready to demonſtrate.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>Nay, without doubt it will be moſt extraordinary; for firſt, here will be the Freehold Lands of <hi>England,</hi> or if you will, <hi>England</hi> it ſelf for a Fund; here will be Parliamentary Funds for a collateral Security, and here will be a Bank of Money raiſed by the accruing Profits: ſo that thoſe who take theſe Bills will have a moſt undoubted Security; beſides, there will be Money for thoſe who will have it. The Management of it is propoſed to be in Commiſſioners appointed by King, Lords and Commons, and Directors to be choſe by the Freeholders of <hi>England;</hi> and this Bank will furniſh their Majeſties for 3 <hi>l. per cent. per annum</hi> Intereſt, or for an Annuity of 6 <hi>l.</hi> 10 <hi>s. per cent. per annum</hi> for 25
+<pb n="24" facs="tcp:56392:17"/>Years, which is cheaper than any Prince in the World is ſerved, and that for as many Millions as ſhall be wanting, and at the ſame time the yearly Eſtates of the Freeholders in <hi>England</hi> will be doubled. In fine, to recount all the Advantages that will ariſe to the Subjects of the Kingdom as well as to their Majeſties by this propoſed Method, would be endleſs.</p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>
+                  <hi>It will certainly make this Land the Paradiſe of the World;</hi> for with<g ref="char:EOLhyphen"/>out doubt <hi>it will ſet all Hands at work,</hi> and all Freeholders will be building, repairing, draining, planting, fencing, <hi>&amp;c.</hi> and what I may add, this propoſed Method <hi>will prevent the Deſtruction of a great deal of Timber that is now cut down</hi> to make a Penny of.</p>
+            </sp>
+            <sp>
+               <speaker>Fr.</speaker>
+               <p>Why now you put me in mind of it, I did intend to have ſold 500 <hi>l.</hi> worth of Timber off from my own Land this Year; but now it ſhall ſtand and improve for my Son, ſince I can have 500 <hi>l.</hi> upon my Eſtate for 50 <hi>s. per annum.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <p>Well, Sir, without doubt it pleaſes your Fancy who have an Eſtate in Land to ſettle; I am ſure I have often been diverted with contempla<g ref="char:EOLhyphen"/>ting on the great Alteration that I conceive it will make in the Nation for the better, if this Act paſſes: but it lies before the Parliament, who are more competent Judges of theſe Propoſals than you or me; and tho I have endeavoured in my whole Treatiſe to make Reaſon my Rule, yet it is fit that every private Man's Reaſon ſhould ſubmit to what our Legiſla<g ref="char:EOLhyphen"/>tors ſhall think moſt reaſonable and conducive to the Good of the whole Community or Body of the People. But in regard it begins to grow late, I deſire that we may conclude our Diſcourſe at this time; only I heartily wiſh, that every one of our <hi>Senators</hi> would be pleaſed to form ſuch a lively <hi>Idea</hi> in their Minds, as I have done of the preſent Condition and Cir<g ref="char:EOLhyphen"/>cumſtances of all the Subjects in the Kingdom in their divers Capacities, and imagin that they ſaw all ſorts of People thus ſeverally addreſſing themſelves unto them: And firſt, that they would ſuppoſe all the Monied Men of divers Nations and Countries, as well as thoſe of our own Na<g ref="char:EOLhyphen"/>tion, together with the Gentlemen of the Bank, delivering their Minds (by one ſelected out from among themſelves for that purpoſe) in the following manner.</p>
+            </sp>
+         </div>
+         <div type="speech">
+            <pb n="25" facs="tcp:56392:17"/>
+            <head>The Monied Man's Speech.</head>
+            <p>
+               <hi>THeir Majeſties being engaged in a long and expenſive War, for the re-inſtating both you and us in our once loſt Liberties, and Money being the Sinews of War, and we having all the Money in the Kingdom among us, the Country Gentlemen being unable to aſſiſt their Majeſties therewith, moſt of them having dipp'd their Eſtates to one or other of us, We come to tender our Services to you the Gentlemen of the Houſe of Commons, who (by the Conſtitution of the Government) have the Privilege of preſcribing the Methods, whereby the Money ſhall be raiſed for the Supply of their Majeſties. We have at ſeveral times (as it is not unknown to you) advanced upon the Credit of your Acts, Mil<g ref="char:EOLhyphen"/>lion after Million; and very lately, as a</hi> Specimen <hi>of our Abilities, ſe<g ref="char:EOLhyphen"/>veral of us raiſed</hi> 1200000 l. <hi>in a few days ſpace, for the Nation's Service: What could their Majeſties and the Kingdom have done, if we had not come in ſo timely with our Supplies? What would become of their Majeſties</hi> Jura Pacis &amp; Belli, <hi>if we ſhould cloſe our Purſe-ſtrings? What, with Submiſſion, would all your</hi> Votes, <hi>and</hi> Be it enacted, <hi>ſignify, if we, as well as his Majeſty, did not put our</hi> Fiat <hi>to it? And therefore our Readineſs to ſupply their Majeſties in theſe their Exigencies, is a ſufficient Indication of our good Inclinations to their Majeſties and the Nation's Intereſt. It is true, you have well rewarded us for what we have done, and do not you find the Fruits and Effects of it? Have not theſe Encouragements you have given us invited over the Monied Men of all Nations, who are come along with us to make a Tender to this Honourable Houſe of whole</hi> Cargoes of Dollars, Ducats, Pieces of Eight, Louis d'ors, <hi>&amp;c. and to engage their Fortunes in their Majeſties Intereſt? Se<g ref="char:EOLhyphen"/>veral of us, who were once Tradeſmen, have left off our Trades, and drawn in all our Effects to advance upon the late Funds; and others of us who have lent our Money to Tradeſmen, and to Gentlemen upon the Security of their Eſtates, have call'd it all out of their Hands: Some of us again have turn'd our very Freehold Eſtates into Money for the aforeſaid Purpoſes; ſo that (as Men ſwallowed up in their Majeſties and the King<g ref="char:EOLhyphen"/>dom's Intereſt) we reſolve wholly to leave off all other Buſineſs, and to
+<pb n="26" facs="tcp:56392:18"/>devote our Time and Eſtates (which formerly were employ'd in Trade) to their Majeſties Service.</hi>
+            </p>
+            <p>
+               <hi>And we the Gentlemen of the Bank (who have received particular Marks of Favour from this Honourable Houſe) doubt not, but in a little time, we ſhall ariſe to ſuch a height of Reputation, that vote as many Millions as you pleaſe, we will furniſh their Majeſties with our Bank-Bills (to whatſoever Value) as there ſhall be Occaſion, upon your ſettling a good Fund upon us for the paiment of</hi> 8 l. per cent. per annum <hi>perpetual Intereſt, out of which we will give</hi> 2 d. per cent. per diem, <hi>for the Circulation of our Bills, which will be an Addition of ſo many Millions of Money to the Stock of the Nation; and with the ſame Bills we can accommodate the Gentlemen and Merchants with Mo<g ref="char:EOLhyphen"/>ney at</hi> 6 l. per cent. per annum, <hi>upon a Mortgage of their Eſtates, or a Depoſite of a ſufficient Value in Goods for our Security. And this further we humbly offer, which (in our Opinion) will be no ſmall advan<g ref="char:EOLhyphen"/>tage to the Nation, that if any Gentlemen ſhall have a Deſire to part with their Eſtates, upon Application to us, we ſhall be always ready to accommodate them, without giving them the trouble of tedious Atten<g ref="char:EOLhyphen"/>dances, or to wait any longer time, than muſt be neceſſarily taken up in examining the Titles, and drawing the Conveyances: And let the Pur<g ref="char:EOLhyphen"/>chaſe be never ſo great, we ſhall always have Money, or Bank-Bills, (which are better than Money by</hi> 3 l. per cent. per annum) <hi>at their Services; and by this means we who have at preſent no more than an Imaginary Security, for all the Bills we ſhall iſſue out for above</hi> 1200000 l. <hi>ſhall then have a real and ſolid Fund of good Freehold Land: And if we have ſuch Reputation now, what Credit may we not then hope for? and what Aſſistance may not their Majeſties and the whole Nation ex<g ref="char:EOLhyphen"/>pect to receive from us?</hi>
+            </p>
+            <p>The <hi>Prolocutor</hi> of the <hi>Bank</hi> having finiſh'd his Speech, all the monied Men repeated their Aſſurances to the Parliament, that they would ſtand by their Majeſties with their Lives and Fortunes; and that that Honoura<g ref="char:EOLhyphen"/>ble Houſe need take no farther Care, but only to raiſe another Land-Tax of four Shillings in the Pound: and for whatſoever more ſhall be want<g ref="char:EOLhyphen"/>ing, if they pleaſed to lay an <hi>Exciſe</hi> upon Soap, Leather, or ſome other Commodities, which may bring in 3 or 400000 <hi>l. per annum,</hi> they would ſupply their Majeſties with Three or Four Millions of Money, or Bills,
+<pb n="27" facs="tcp:56392:18"/>on the ſaid Funds, upon the <hi>like Encouragements</hi> as were given by the late Acts: And having all of them made their <hi>ſubmiſſive Bows,</hi> they withdrew.</p>
+            <p>The Freeholders of <hi>England</hi> who were all this while attending, as well to lay their Grievances before the Parliament, as to make a Tender of their Lives and Eſtates for the Service of their Majeſties, and in the De<g ref="char:EOLhyphen"/>fence of their Country, being called in, came, attended with a nume<g ref="char:EOLhyphen"/>rous Company of Merchants, Tradeſmen, Handicrafts, and others, who making their humble Obeyſances to the Speaker, and the reſt of the Members of that Honourable Houſe, deſired leave (in regard they were ſo numerous) to appoint ſome of their Number to ſpeak in their behalf, and to acquaint the Houſe with their Buſineſs, purſuant to the Inſtructions they had received from them. Which Requeſt being granted, and ſome Gentlemen and Merchants (who by the Indulgence of their Repreſenta<g ref="char:EOLhyphen"/>tives, behind whom they ſtood all the while, and had heard what the monied Men ſaid) being appointed for that purpoſe, one of the Gentle<g ref="char:EOLhyphen"/>men ſpoke in the following manner.</p>
+         </div>
+         <div type="speech">
+            <head>The Freeholder's Speech.</head>
+            <opener>
+               <salute>Mr. <hi>Speaker,</hi> and you the Gentlemen of this Honourable Houſe;</salute>
+            </opener>
+            <p>
+               <hi>IT is not unknown to you who are our Repreſentatives, how chearful<g ref="char:EOLhyphen"/>ly we have paid all thoſe Taxes out of our Eſtates, which you have thought fit to lay upon us for the Service of their Majeſties; which we have never yet deſired to be eaſed from, wholly confiding in your great Wiſdom, that you would not have impoſed thoſe Taxes upon us, had there not been an abſolute Neceſſity for your ſo doing: And tho there are (as it is well known) not a few Gentlemen in the Nation who have large and noble Eſtates, without the leaſt Incumberance upon them, yet you are not ignorant that many of our Eſtates deſcended to us from our Anceſtors, charged with no ſmall Sums for Portions for younger Bro<g ref="char:EOLhyphen"/>thers and Siſters. Others among us have been forc'd to mortgage our Eſtates our ſelves, to ſettle our Sons in the World, or to diſpoſe of our Daughters in Marriage: So that what with the Intereſt of Money which we pay, and the Taxes raiſed upon us, very many of us (though of con<g ref="char:EOLhyphen"/>ſiderable
+<pb n="28" facs="tcp:56392:19"/>Eſtates) are reduced to the laſt Extremity: And to conſummate our Miſeries, our Creditors (to whom our Eſtates are engaged) will not be ſatisfied, nor ſtay any longer for their Money, telling us, they can make a greater Advantage of it by lending it to the Government. Some of us, to ſatisfy their Anger and allay their Fury, are forc'd to make them Preſents of a conſiderable Value, inſtead of a greater Inte<g ref="char:EOLhyphen"/>reſt, which formerly they were aſhamed to ask, nor did they dare to take: But now if we do not comply with their unjuſt Demands, they knowing there is no Money to be borrowed, and that therefore we cannot pay off our Mortgages, and clear our Eſtates, a great part of the Money in the Kingdom being advanced upon the late Funds, we are forc'd (ſuch of us who are under theſe Circumſtances) to part with that little Re<g ref="char:EOLhyphen"/>mainder which we had left us to buy Bread for our Wives and Chil<g ref="char:EOLhyphen"/>dren, to ſatisfy thoſe devouring</hi> Harpies, <hi>without which we ſhould not have enjoyed our Liberties, but muſt have been impriſoned and outed of our Eſtates. Others of us again who have nothing left us but</hi> Preces &amp; Lachrimae <hi>to the Great God of Heaven, are ſerved with Leaſes of Ejectment and</hi> Subpoena<hi>'s in</hi> Chancery, <hi>in order to forecloſe us of the Equity of Redemption: And as if we (who are the Gentry of the Kingdom) were made for Beaſts of Burden, ſeveral of us whoſe Eſtates are mortgaged, and pay</hi> 60 <hi>or</hi> 70 l. per annum <hi>Intereſt, out of every</hi> 100 l. per annum <hi>we have, are notwithſtanding forc'd to pay</hi> 20 l. per annum <hi>more, out of the ſmall Pittance that is left us, for Taxes to their Majeſties, while the Perſons who have our Eſtates in their Clutches, and receive of us probably two Thirds or more of our yearly Incomes, pay not one Penny towards the Taxes. And that which pierces like a Dart to the Heart of any generous Soul, we who are deſcended from Noble Anceſtors and Antient Families, muſt be forc'd to bear the Inſults of our Creditors, and to hear our ſelves upbraided with the Ti<g ref="char:EOLhyphen"/>tle of</hi> Beggars: <hi>We have done all we can to ſell our Eſtates, but every one we ask tells us, they had rather ſell than purchaſe Land, upon which there are ſo many Taxes; and that there are a new ſort of Purchaſes lately come in faſhion, whereby a Man may have above</hi> 8 l. per cent. per annum <hi>perpetual Intereſt, clear of all Charges; beſides his Part in ma<g ref="char:EOLhyphen"/>ny other Advantages, which may in all probability, in time, amount to as much more; upon which he may raiſe whatſoever Money he wants,
+<pb n="29" facs="tcp:56392:19"/>and pay it in whenſoever he pleaſes, for</hi> 5 <hi>or</hi> 6 l. per cent. per annum <hi>Intereſt; and that without long Delays, and the Charge of examining Titles, Procuration, Continuation, Mortgage-Deeds,</hi> &amp;c. <hi>That if they ſell their Lands for</hi> 12 <hi>Years Purchaſe, and buy an Intereſt in the Bank, it will bring them in as much as their Lands will in time of Peace, and a fifth Part more during the War, if they have no more nor other Ad<g ref="char:EOLhyphen"/>vantages than the bare</hi> 8 l. per cent. per annum. <hi>And further they tell us, that the very Bank-Bills are better than our Land, carrying</hi> 3 l. per cent. per annum <hi>along with them, and are ready Money at an Hour's warning. We have indeed examin'd into the Nature of theſe Funds, and find they are generally ſettled upon the Exciſe of Beer and Ale,</hi> &amp;c. <hi>which is made of the Product of our Lands: And it is a Rid<g ref="char:EOLhyphen"/>dle to us, that what our Lands produce every Year, ſhould be eſteemed a better Fund or Security than our Lands themſelves.</hi>
+            </p>
+            <p>
+               <hi>I have (under the protection of a worthy Member of this Honoura<g ref="char:EOLhyphen"/>ble Houſe) been preſent, and have heard what hath been urged by the monied Men; and if he who was born Dumb, cried out, when he ſaw the Knife at his Father's Throat, can we be ſilent when we ſee our Liber<g ref="char:EOLhyphen"/>ties, Eſtates,</hi> &amp;c. <hi>in ſo apparent Danger? His Majeſty (to his Eter<g ref="char:EOLhyphen"/>nal Honour) is fighting our Battels abroad; of whom we may truly ſay,</hi> Quod omnem metum at<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> inexorabile fatum ſubjecit Pedibus: <hi>and ſhall we enſlave our ſelves to our fellow Subjects, under the Notion of raiſing Money to defend our Liberties? Have they not told you (what I fear you will find too true, if more Money ſhould be raiſed by the late Methods) that they have all the Money, and conſequently the Power of Peace and War in their Hands; and that your Acts for raiſing Mo<g ref="char:EOLhyphen"/>ney are inſignificant, unleſs they pleaſe to open their Purſes? And be aſ<g ref="char:EOLhyphen"/>ſured, they will never part with their Money unleſs for more than ordi<g ref="char:EOLhyphen"/>nary Advantage. And as to theſe Foreigners of ſeveral Nations, who come to offer their Money, pretendedly for their Majeſties Service, do not they tell you, it is the great Intereſt invited them to make a Tender of it? And then the</hi> Prolocutor <hi>of the Bank, he tells you, that the Di<g ref="char:EOLhyphen"/>rectors of the Bank will furniſh you with what Bills you pleaſe, raiſe as many Millions as you will, upon your ſettling a Fund to pay them</hi> 8 l. per cent. per annum, <hi>perpetual Intereſt: Whereas, Gentlemen, I en<g ref="char:EOLhyphen"/>treat you to peruſe theſe Tables in my Hand, wherein you may ſee how
+<pb n="30" facs="tcp:56392:20"/>many Millions you give them for one, and how in a few Years they will have all the Money in the Nation in their Hands; and then they may truly ſay, that nothing can be done without their</hi> Fiat. <hi>And for my part, Gentlemen, I no leſs wonder at your Patience in hearing, than at his Con<g ref="char:EOLhyphen"/>fidence in making ſo unreaſonable a Propoſal: But that which did not a little damp my Spirits, inſomuch that I can hardly yet recover my ſelf, is, how genteely the</hi> Prolocutor <hi>offers to eaſe us of our Eſtates: And I muſt confeſs there ſeems a tendency thereunto; for when they have once made us Poor, by their</hi> 8 l. per cent. per annum <hi>Intereſt, I know not what ſhould hinder them from having our Eſtates. And I find the Purchaſe of our Eſtates is quickly caſt up, for</hi> 1200000 l. <hi>in Money paid for</hi> 100000 l. per annum, <hi>is juſt</hi> 12 <hi>Years Purchaſe; and ſo much we may expect for our Freeholds. And tho I doubt not in the leaſt theſe Gentle<g ref="char:EOLhyphen"/>mens Civility, in giving us a quick Diſpatch, and ſending us out of Town with their Bank-Bills, in exchange for our</hi> Terra Firma, <hi>yet I very much queſtion, whether their Goodneſs will extend ſo far as to give more Years Purchaſe for our Lands, than they give to the Govern<g ref="char:EOLhyphen"/>ment for the Funds: And to give the Gentlemen of the Bank their Due, they have a very good Plea why they ought not to give ſo many Years Purchaſe for Land, becauſe there is</hi> 4 s. <hi>in the Pound paid yearly during the War for Taxes out of our Land; whereas the Funds are ex<g ref="char:EOLhyphen"/>cuſed from all Taxes by Act of Parliament. So ſoon as I heard the</hi> Prolocutor <hi>mention the purchaſing our Lands with their Bank-Bills, it put me in mind of</hi> Pharaoh<hi>'s ſeven lean ill-favoured Kine, who did eat up the ſeven fat and well-favour'd Kine; or rather the ſeven thin Ears of Barley, when made into Malt, devouring the ſeven full Ears of Barley, with the Land upon which it grew. However my Thoughts were quickly interrupted, when I heard him ſay, that as ſoon as they had got our Eſtates, they ſhould have a Fund of good Freehold-Land for the ſe<g ref="char:EOLhyphen"/>curity of their Bank-Bills: That ſuted exactly with my Notion, and I thought with my ſelf, why may not our Eſtates be as good a Fund or Security in our Hands as in theirs? Which, Gentlemen, leads me to the Point which I have in Command to lay before this Honourable Houſe, which is, to acquaint you, that by reaſon of high Intereſt occaſioned by thoſe late Funds, we the Freeholders of</hi> England <hi>are in a fair way to be ruin'd, the Nation impoveriſh'd, and what indeed I ought to have
+<pb n="31" facs="tcp:56392:20"/>mention'd in the firſt place, their Majeſties and our Parliaments will be at laſt forc'd to truckle to the Monied Men, among whom are very many Foreigners as well as Subjects of our own Nation.</hi>
+            </p>
+            <p>
+               <hi>Pardon me therefore,</hi> Right Horourable, Honourable, and thrice worthy Patriots, <hi>if I make it my moſt humble Requeſt to you, in the Name of all the</hi> Freeholders of England, <hi>That you would be pleaſed to take the Premiſſes into your ſerious Conſideration. I preſume to ſay, that a more weighty Affair in reſpect of their Majeſties or the Kingdom, can<g ref="char:EOLhyphen"/>not come before you; be pleaſed to peruſe this Book, examine the Tables, conſider the ſeveral Arguments and Objections, with the ſeveral Anſwers, read over the Propoſals, and ſedately ponder them; and if you find any thing therein that is not conſentaneous or agreeable to your Judgments, be pleaſed to hear what Reaſons may be given by the Propoſer for ſuch his Propoſal, before you totally caſt it aſide as impracticable. The Propoſer doth not pretend to lay a compleat and perfect Scheme before your Honours, but only to bring you the Treaſure in the Maſs,</hi> Rudis indigeſta<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Moles, <hi>well knowing, that if you ſhall be pleaſed with the Matter, that there are not wanting among you Perſons of great Wiſdom and profound Judgments, who are able to form and methodize it far beyond what the Propoſer can or will pretend.</hi>
+            </p>
+            <p>
+               <hi>The Deſign is to ſettle our Lands, upon which may be iſſued out Bills of Credit, not only for the Service of their Majeſties, but of all the Sub<g ref="char:EOLhyphen"/>jects in the Kingdom; and we cannot but hope that your Honours will think it as reaſonable for us to iſſue out Bills of Credit upon the Security of our Freehold Eſtates in Land, as you have been pleaſed to give Leave to the Gentlemen of the Bank to iſſue out Bills upon Security of the</hi> 100000 l. per annum, <hi>payable out of the Exciſe: whereby their Ma<g ref="char:EOLhyphen"/>jeſties will be enabled to carry on the War with a yet greater Vigor than ever, and we the Freeholders of</hi> England <hi>will have an opportunity to clear our Eſtates from all Incumbrances, and raiſe Portions for our Chil<g ref="char:EOLhyphen"/>dren; and ſuch of us who are now unable to help our ſelves, and are in a ſtarving Condition, will be put into a Capacity to lend their Majeſties our Bills of Credit for</hi> 3 l. per cent. per annum, <hi>who now pay above</hi> 8 l. per cent. per annum <hi>perpetual Intereſt. But I fear I have treſ<g ref="char:EOLhyphen"/>paſs'd too much upon your Patience, and therefore what might be ſaid in reſpect of Trade, I refer it to this Gentleman, who is a conſiderable Mer<g ref="char:EOLhyphen"/>chant
+<pb n="32" facs="tcp:56392:21"/>in the City, and underſtands the Method of Trade far better than I can pretend to. Begging therefore the Divine Benediction upon all your Debates and Conſultations, I leave with your Honours the true, tho de<g ref="char:EOLhyphen"/>plorable, Eſtate and Condition of the Freeholders of this Nation, hoping you will be pleaſed to take it into your ſerious Conſideration, to give them ſome Eaſe under the great and ſore Preſſures that very many of them are under: That as their Majeſties (under God) may be ſaid to be the Re<g ref="char:EOLhyphen"/>ſtorers of our Liberties, ſo it may be as truly ſaid of you, to the eter<g ref="char:EOLhyphen"/>nizing your Names to future Generations,</hi> That ſuch a Parliament, <hi>Anno ſexto Willielmi &amp; Mariae,</hi> ſet all the Freeholders in <hi>England</hi> at Liberty from their worſe than Egyptian Task-Maſters.</p>
+            <p>The Gentleman having thus finiſh'd his Diſcourſe, one of the Merchants attending being ordered to acquaint the Houſe with what he had to ſay in reference to the Trade of the Nation, de<g ref="char:EOLhyphen"/>livered himſelf in the following manner.</p>
+         </div>
+         <div type="speech">
+            <head>The Merchant's Speech.</head>
+            <p>I <hi>Count it no ſmall Honour, Mr.</hi> Speaker, <hi>and you the Gentlemen of this Honourable Houſe, that I am ſingled out from among ſo many eminent Merchants, to acquaint your Honours how far theſe late Funds are or may be detrimental to the Trade of the Nation: but this Gentleman who hath ſpoke in the behalf of the Freeholders of</hi> England, <hi>hath delivered himſelf in ſo extraordinary and pathetical a manner, that I humbly offer it as my Opinion, with Submiſſion to your greater Judgments, there is no need of any thing that I can ſay to enforce or add a farther Weight to his Arguments; however, in Obedience to your Commands, I ſhall deliver my Thoughts with as much Brevity as I can.</hi>
+            </p>
+            <p>
+               <hi>Thoſe Seas and the mighty Ocean which ſurround this Land, and were formerly a</hi> Ne plus ultra <hi>to the Inhabitants thereof, forbidding all Ac<g ref="char:EOLhyphen"/>ceſs to or Commerce with them, through the favourable Smiles of indul<g ref="char:EOLhyphen"/>gent Providence, have open'd us a Way (by the help of Navigation) to the remoteſt Regions, whither our Merchants carry the Product of your
+<pb n="33" facs="tcp:56392:21"/>Land, and the Manufactures of the Kingdom, and in return bring back the Treaſures and Riches of thoſe Countries: and what is more, thereby the Fame of this Iſland, which in former Ages was ſcarcely known ſo much as by Name, is now ſpread abroad, both far and near, in all the Na<g ref="char:EOLhyphen"/>tions and Kingdoms of the <g ref="char:V">Ʋ</g>niverſe; ſo that we may truly ſay with the Poet,</hi>
+               <q xml:lang="lat">Quae Regio in Terris noſtri non plena laboris?</q> 
+               <hi>And I hope your Honours and the Country Gentlemen (whom we ſhall always eſteem and value as our elder Brethren) will pardon me if I ſay, that nothing can aggrandize and make this Nation rich and potent like Trade and Commerce, and that it is the Intereſt of all the Nobility and Gentry in the Nation to encourage it: for Trade (generally ſpeaking) produceth Profit; Profit brings People of all ſorts into a Nation, whe<g ref="char:EOLhyphen"/>ther Merchants, Tradeſmen, or Artificers, who will all flock to thoſe Places where they can find their Advantage; and People conſume the Product of your Lands. Again, the more we export of the Growth and Product of the Nation, the richer will be the Gentleman; the cheaper we can ſell our Goods at Foreign Markets, the more we ſhall export; and the leſs Intereſt our Merchants pay, the cheaper can they afford their Mer<g ref="char:EOLhyphen"/>chandize, and conſequently, the more Commodities of our Growth and Manufacture will be exported: So that, Gentlemen, you may plainly ſee there is no ſmall Affinity (if I may ſo call it) between the Freeholders and trading part of the Nation; and therefore I preſume to ſay, that the Subject of Trade is not unworthy your firſt Thoughts and prime De<g ref="char:EOLhyphen"/>bates; and give me leave to ſay further, Thoſe mighty Waters which (as I juſt now hinted) are ſerviceable to convey our Riches and Treaſures to us, will as well ſerve to bring a Foreign Enemy upon us, as formerly the</hi> Romans, Saxons, Danes <hi>and</hi> Normans. <hi>And what can prevent the Inſults of a Foreign Power, but our</hi> Moenia Regni, <hi>our Ships of War? which not only defend us, but, to our Fame and Renown abroad, offend our Enemies, and are at this preſent a Bridle to curb the Inſo<g ref="char:EOLhyphen"/>lence of the French Monarch, who by his Policy and Cunning in giving</hi> all due Encouragement to Trade, and Men of Induſtry, <hi>which he well knows will not a little contribute to the Strength as well as the Riches of his Kingdom, from a deſpicable Enemy at Sea but a few Years ago,
+<pb n="34" facs="tcp:56392:22"/>is come to be an almoſt equal Match for</hi> England, <hi>which was formerly eſteemed the</hi> Empreſs <hi>of the Ocean.</hi>
+            </p>
+            <p>
+               <hi>But, Gentlemen, of what uſe would theſe floating Caſtles be unto us, had we not Seamen to manage them? and who ſupplies us with Seamen but our Merchants? who by their Trade and Commerce do yearly encreaſe the Number of them: So that you ſee the induſtrious Merchant, not only creates a Trade, ſetting to work Handicrafts and Artificers, but conſtantly employs great Numbers of Seamen, who are ready upon all occa<g ref="char:EOLhyphen"/>ſions to ſupply their Majeſties Ships of War, which are the Strength and Bulwarks of the Nation. So that, Gentlemen, I hope you will be of Opinion, that the Trade of the Kingdom is not unworthy your Conſi<g ref="char:EOLhyphen"/>deration.</hi>
+            </p>
+            <p>
+               <hi>Now, Gentlemen, that which hath been no ſmall Detriment to the Trade of the Nation, hath been our high Intereſt, for ſo I call</hi> 5 <hi>or</hi> 6 l. per cent. per annum, <hi>compared with</hi> 3 l. per cent. per annum, <hi>which our Neighbours pay; by which means we have quite loſt many of our Trades, and divers others are in their Declenſion: and had we as little a Spot of Land as the</hi> Hollanders, <hi>our Improvidence in the Management of our Trade would certainly have ruin'd us long ſince; but</hi> kind Hea<g ref="char:EOLhyphen"/>ven <hi>hath provided better for us, placing us in a Terreſtrial Paradiſe, where nothing is wanting but a prudent Management and Induſtry, to conſummate and compleat our Happineſs, ſo as to make us the most flouriſhing People in the whole <g ref="char:V">Ʋ</g>niverſe. But theſe great Encourage<g ref="char:EOLhyphen"/>ments given to the Contributors to the late Funds, have put our Merchants under yet greater Diſadvantages than before, and have made the Terms for the Loan of Money more ſevere than ever, whereby ſuch Merchants who have been forc'd to take up Money to enlarge their Stocks, are now render'd uncapable to trade to Foreign Parts, where they are out-done by Merchants of other Nations; and ſuch of our Merchants who have Eſtates of their own, chooſe rather to enjoy their Eaſe, and reap the Sweet of thoſe great Advantages at home, without expoſing their Eſtates to the hazard of the Sea, or danger of Privateers: So that, Gentlemen, we are tamely reſigning up our Trade to others who are induſtriouſly proſecuting their Buſineſs, and to whom doubtleſs it is no ſmall Diverſion, to ſee us (who are a trading People) purſuing Butterflies, and buſying our ſelves with Lotteries, while they are ſtudiouſly employ'd in minding
+<pb n="35" facs="tcp:56392:22"/>their Buſineſs, and are taking our Trade (that ineſtimable Jewel) out of our Hands.</hi>
+            </p>
+            <p>
+               <hi>Nor is this high Intereſt leſs injurious to our Domeſtick than it is to our Foreign Trade, being an effectual Bar to all Improvements, hin<g ref="char:EOLhyphen"/>dring the bringing new Manufactures into the Nation, and ſetting the Poor to work in the ſeveral parts of the Kingdom; and what is worſe, it endangers the loſs of thoſe Trades which even God and Nature have appropriated to this Iſland, I mean our Woollen Manufactures; inſomuch that the ſevereſt Penalties inflicted upon Offenders, do not deter the ſhipping off our Wooll to other Places, where they can work it with leſs Diſadvantage: And give me leave to add a Word in favour of theſe Pro<g ref="char:EOLhyphen"/>poſals, that whereas moſt of the Propoſals I have ſeen or heard of for the raiſing Money for the Supply of their Majeſties, are without any Regard to the Good of the Nation;</hi> not conſidering that their Majeſties may loſe in their Subjects Affections more than the Money propoſed; <hi>and ſo inſtead of ſerving they may diſſerve their Majeſties; I beg leave to ſay, that</hi> theſe Propoſals are adapted to all Occaſions, being equally bene<g ref="char:EOLhyphen"/>ficial both to their Majeſties, and to all the Subjects in general.</p>
+            <p n="1">1. <hi>To</hi> their Majeſties, <hi>by engaging the Hearts as well as the Eſtates of their Subjects in their Intereſt, and making the Subjects eaſy under their Government. By ſupplying them with Money on eaſy Terms; and enabling them to carry on the War with a yet greater Vigour than ever. By encreaſing greatly their yearly Revenues of Cuſtoms, Exciſe,</hi> &amp;c. <hi>as I can prove by undeniable Arguments.</hi>
+            </p>
+            <p n="2">2. <hi>To the</hi> Nobility, Gentry, and Freeholders, <hi>by enlarging their year<g ref="char:EOLhyphen"/>ly Incomes, and bringing their Eſtates in Land to</hi> 40 <hi>or</hi> 50 <hi>Years Pur<g ref="char:EOLhyphen"/>chaſe: By exempting them from Taxes: By enabling them to clear their Eſtates from Incumbrances, to raiſe Portions for their Children, and to improve their Eſtates, by Building, Repairing, Planting,</hi> &amp;c. <hi>By raiſing the greateſt Bank in the World without a Penny, and making their Lands a living Stock, and paſſable from one to another as ſo much Money, and thereby capacitating them to lend to others, who have not wherewith to help themſelves.</hi>
+            </p>
+            <p n="3">3. <hi>To the</hi> Merchants and Tradeſmen, <hi>by enabling them to carry on and encreaſe their Trade, and to eſtabliſh new Manufactures in the Kingdom: And by furniſhing them with Money at eaſy Intereſt.</hi>
+            </p>
+            <pb n="36" facs="tcp:56392:23"/>
+            <p n="4">4. <hi>To the</hi> Publick, <hi>by ſetting all the Poor to work in the ſeveral Parts of the Kingdom. By loading the Subjects with fewer Funds: And by preſerving our Timber, which is now too often cut down to make a Penny of long before it comes to Maturity.</hi>
+            </p>
+            <p>
+               <hi>And when your Honours ſhall have conſidered the whole, I cannot but hope you will be of Opinion, that theſe Propoſals are much more advanta<g ref="char:EOLhyphen"/>geous to their Majeſties and the Kingdom in general, than any that have been hither to propoſed to your Honours. I have indeed been told that theſe Propoſals come too late, the Methods for raiſing Money for the following Year being already concerted; and</hi> that the Bank of <hi>England</hi> are to fur<g ref="char:EOLhyphen"/>niſh their Majeſties with Money at 6 <hi>l. per Cent. per Annum: but I cannot be brought to believe it; for tho I am well ſatisfied it is the Duty of all the Subjects to propoſe to your Honours whatſoever may occur to any of them for the Service of the Publick, in order to make your great Work facile and eaſy to you, yet I cannot think that any are ſo vain to ſuppoſe that your Honours Actions are to be regulated by their Determinations, or that you are confined to follow whatſoever Methods ſhall be preſcribed unto you.</hi>
+            </p>
+            <p>
+               <hi>For can any Man think that a few monied Men (among whom are no ſmall Number of other Nations, who ſupport their Lives by ſucking our Balſamick Blood, and preying upon our very Vitals) will be more re<g ref="char:EOLhyphen"/>garded by the Parliament than the trading Part of the Nation; nay, even than all the Freeholders of</hi> England, <hi>of whom your Honours are the Re<g ref="char:EOLhyphen"/>preſentatives? Or can any Man ſay it is too late at the very Beginning of the Seſſions to reſcue ſuch of the poor Gentlemen and Freeholders in the Nation, who are under the</hi> extended Talons <hi>of their</hi> uſurious Creditors? <hi>or too late for your Honours to take the State of the Trade of the King<g ref="char:EOLhyphen"/>dom into your ſerious Conſideration? That due Veneration and Eſteem for our Engliſh Parliaments, which is inherent in me, cannot permit me to think that your Honours can, much leſs that you will be ſo regardleſs of their Majeſties or the Nation's Intereſt.</hi>
+            </p>
+            <p>
+               <hi>Now the God of Heaven direct and guide you in all your Debates and Conſultations; and may he beſtow upon every one of you (the Members of this Honourable Houſe) the Bleſſings of the Right-hand and of the Left,</hi> viz. <hi>Length of Days and Riches, and Honour: and to con<g ref="char:EOLhyphen"/>ſummate your Felicity, may you have ſuch an Everlaſting Poſſeſſion or Freehold, that hath no need of any farther Settlement.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:56392:23"/>
+         </div>
+      </body>
+   </text>
+</TEI>
